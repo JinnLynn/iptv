@@ -331,6 +331,17 @@ class IPTV:
                 fp.write('\n\n')
         logging.info(f'导出TXT: {dst}')
 
+    def export_json(self):
+        data = OrderedDict()
+        for cate, chls in self.channel_cates.items():
+            data.setdefault(cate, OrderedDict())
+            for chl_name in chls:
+                data[cate].setdefault(chl_name, [])
+                for index, uri in self.enum_channel_uri(chl_name):
+                    data[cate][chl_name].append(uri)
+        with open('tmp/channels.json', 'w') as fp:
+            json.dump(data, fp, indent=4, ensure_ascii=False)
+
     def export(self):
         dist = 'dist'
         os.makedirs(dist, exist_ok=True)
@@ -342,8 +353,9 @@ class IPTV:
             for k in self.raw_channels:
                 self.raw_channels[k].sort(key=lambda i: i['count'], reverse=True)
             os.makedirs('tmp', exist_ok=True)
-            with open('tmp/channels.json', 'w') as fp:
+            with open('tmp/channels_raw.json', 'w') as fp:
                 json.dump(self.raw_channels, fp, indent=4, ensure_ascii=False)
+            self.export_json()
 
     def run(self):
         self.load_channels()
