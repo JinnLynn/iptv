@@ -70,6 +70,13 @@ def conv_list(v):
     v = v.strip().split('\n')
     return [s.strip() for s in v if s.strip()]
 
+def conv_dict(v):
+    maps = {}
+    for m in conv_list(v):
+        s = m.split(' ')
+        maps[s[0].strip()] = s[1].strip()
+    return maps
+
 def is_ipv6(url):
     p = urlparse(url)
     return re.match(r'\[[0-9a-fA-F:]+\]', p.netloc) is not None
@@ -103,10 +110,7 @@ class IPTV:
     def cate_logos(self):
         if self._cate_logos is not None:
             return self._cate_logos
-        self._cate_logos = {}
-        for m in self.get_config('logo_cate', conv_list, default=[]):
-            s = m.split(' ')
-            self._cate_logos[s[0].strip()] = s[1].strip()
+        self._cate_logos = self.get_config('logo_cate', conv_dict, default={})
         return self._cate_logos
 
     def load_channels(self):
@@ -324,7 +328,7 @@ class IPTV:
                 self.raw_channels[k].sort(key=lambda i: i['count'], reverse=True)
             os.makedirs('tmp', exist_ok=True)
             with open('tmp/channels.json', 'w') as fp:
-                json.dump(self.raw_channels, fp, indent=4)
+                json.dump(self.raw_channels, fp, indent=4, ensure_ascii=False)
 
     def run(self):
         self.load_channels()
