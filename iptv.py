@@ -85,6 +85,7 @@ def is_ipv6(url):
 class IPTV:
     def __init__(self, *args, **kwargs):
         self._cate_logos = None
+        self._channel_map = None
 
         self.raw_config = None
         self.raw_channels = {}
@@ -112,6 +113,13 @@ class IPTV:
             return self._cate_logos
         self._cate_logos = self.get_config('logo_cate', conv_dict, default={})
         return self._cate_logos
+
+    @property
+    def channel_map(self):
+        if self._channel_map is not None:
+            return self._channel_map
+        self._channel_map = self.get_config('channel_map', conv_dict, default={})
+        return self._channel_map
 
     def load_channels(self):
         current = ''
@@ -217,7 +225,6 @@ class IPTV:
             if name.startswith(p):
                 name = name.replace(f'{p} ', p)
                 name = name.split(' ')[0]
-
         return name
 
     def add_channel_for_debug(self, name, uri):
@@ -237,15 +244,18 @@ class IPTV:
         if DEBUG:
             self.add_channel_for_debug(name, uri)
 
-        # logging.debug(name)
-
+        # 处理频道名
         org_name = name
         name = self.clean_channel_name(name)
         if org_name != name:
             logging.debug(f'规范频道名: {org_name} => {name}')
 
         if name not in self.channels:
-            return
+            if name not in self.channel_map.keys():
+                return
+            p_name = name
+            name = self.channel_map[name]
+            logging.debug(f'映射频道名: {p_name} => {name}')
 
         # TODO: clean more
         changed = False
