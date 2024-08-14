@@ -1,0 +1,28 @@
+
+tmp/
+README-*.md
+
+# Windows
+[Dd]esktop.ini
+[Tt]humbs.db
+$RECYCLE.BIN/
+
+# MacOSX
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+.Python
+build/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+
+/venv/
