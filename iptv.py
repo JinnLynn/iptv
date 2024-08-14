@@ -70,6 +70,10 @@ def conv_list(v):
     v = v.strip().split('\n')
     return [s.strip() for s in v if s.strip()]
 
+def is_ipv6(url):
+    p = urlparse(url)
+    return re.match(r'\[[0-9a-fA-F:]+\]', p.netloc) is not None
+
 
 class IPTV:
     def __init__(self, *args, **kwargs):
@@ -220,7 +224,7 @@ class IPTV:
             if u['uri'] == uri:
                 u['count'] += u['count'] + 1
                 return
-        self.raw_channels[name].append({'uri': uri, 'count': 1, 'ipv6': None})
+        self.raw_channels[name].append({'uri': uri, 'count': 1, 'ipv6': is_ipv6(uri)})
 
 
     def add_channel_uri(self, name, uri):
@@ -234,7 +238,7 @@ class IPTV:
         org_name = name
         name = self.clean_channel_name(name)
         if org_name != name:
-            logging.debug(f'清理频道名: {org_name} => {name}')
+            logging.debug(f'规范频道名: {org_name} => {name}')
 
         if name not in self.channels:
             return
@@ -243,16 +247,17 @@ class IPTV:
         changed = False
 
         p = urlparse(uri)
-        is_ipv6 =  re.match(r'\[[0-9a-fA-F:]+\]', p.netloc) is not None
         if self.is_port_necessary(p.scheme, p.netloc):
             changed = True
             p = p._replace(netloc=p.netloc.rsplit(':', 1)[0])
 
+        url = p.geturl() if changed else uri
+
         for u in self.channels[name]:
-            if u['uri'] == uri:
+            if u['uri'] == url:
                 u['count'] += u['count'] + 1
                 return
-        self.channels[name].append({'uri': p.geturl() if changed else uri, 'count': 1, 'ipv6': is_ipv6})
+        self.channels[name].append({'uri': url, 'count': 1, 'ipv6': is_ipv6(url)})
 
         # if changed:
         #     logging.debug(f'URL cleaned: {uri} => \n                                              {p.geturl()}')
