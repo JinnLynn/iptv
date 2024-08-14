@@ -1,6 +1,6 @@
 ## IPTV
 
-自动收集整理，优先使用被高频使用的直播源
+自动收集整理，优先使用高频的直播源
 
 ### 使用
 
@@ -8,8 +8,13 @@
 
 每天自动生成
 
-* https://raw.githubusercontent.com/JinnLynn/iptv/master/dist/live.m3u
-* https://raw.githubusercontent.com/JinnLynn/iptv/master/dist/live.txt
+```txt
+https://raw.githubusercontent.com/JinnLynn/iptv/dist/live.m3u
+```
+
+```txt
+https://raw.githubusercontent.com/JinnLynn/iptv/dist/live.m3u
+```
 
 #### 手动生成
 
@@ -20,5 +25,5 @@ python iptv.py
 
 #### 其它
 
-* 直播资源来自网络
+* 直播源来自网络
 * 台标大部分来自 https://github.com/wanglindl/TVlogo
