@@ -220,11 +220,16 @@ class IPTV:
             match = re.match(r'CCTV[0-9\+K]+', name)
             if match:
                 name = match[0].strip()
-
-        for p in ['NewTV', 'CHC']:
-            if name.startswith(p):
-                name = name.replace(f'{p} ', p)
-                name = name.split(' ')[0]
+        elif name.startswith('CETV'):
+            name = name.replace('-', '', 1)
+            match = re.match(r'CETV[0-9]+', name)
+            if match:
+                name = match[0].strip()
+        else:
+            for p in ['NewTV', 'CHC']:
+                if name.startswith(p):
+                    name = name.replace(f'{p} ', p)
+                    name = name.split(' ')[0]
         return name
 
     def add_channel_for_debug(self, name, uri):
