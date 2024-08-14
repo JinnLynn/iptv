@@ -19,11 +19,6 @@ DEF_REQUEST_TIMEOUT = 10
 
 DEBUG = os.environ.get('DEBUG', None) is not None
 
-# config = None
-# channel_cates = OrderedDict()
-# channels = {}
-# fetched_channels = {}
-
 logging.basicConfig(
     level=logging.DEBUG if DEBUG else logging.INFO,
     format='[%(asctime)s][%(levelname)s] %(message)s',
@@ -320,9 +315,9 @@ class IPTV:
         self.export_txt(dist)
 
         if DEBUG:
-            global fetched_channels
             for k in self.raw_channels:
                 self.raw_channels[k].sort(key=lambda i: i['count'], reverse=True)
+            os.makedirs('tmp', exist_ok=True)
             with open('tmp/channels.json', 'w') as fp:
                 json.dump(self.raw_channels, fp, indent=4)
 
