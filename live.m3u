@@ -54,11 +54,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/32212284
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8$IPv6『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
-http://59.62.8.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路8』
+http://111.230.30.193/php/lyd.php?id=6021$IPv4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
-http://111.230.30.193/php/lyd.php?id=6021$IPv4『线路9』
+http://218.241.192.50:8808/rtp/239.3.1.172:8001$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
-http://218.241.192.50:8808/rtp/239.3.1.172:8001$IPv4『线路10』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/index.m3u8$IPv6『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV4.png" group-title="央视频道",CCTV4
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$IPv6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV4.png" group-title="央视频道",CCTV4
@@ -82,23 +82,23 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$IPv6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$IPv6『线路2』
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$IPv4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$IPv4『线路3』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$IPv6『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/1.m3u8$IPv6『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/1.m3u8$IPv6『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8$IPv6『线路6』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8$IPv6『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8$IPv6『线路7』
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8$IPv6『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8$IPv6『线路8』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8$IPv6『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$IPv6『线路9』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8$IPv6『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8$IPv6『线路10』
+http://123.114.19.80:4000/rtp/239.3.1.173:8001$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$IPv6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
@@ -110,11 +110,11 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8$IPv6�
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$IPv6『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8$IPv6『线路6』
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8$IPv6『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8$IPv6『线路7』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8$IPv6『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8$IPv6『线路8』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8$IPv6『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
 http://58.19.38.162:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
@@ -334,11 +334,11 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/32
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV16.png" group-title="央视频道",CCTV16
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8$IPv6『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV16.png" group-title="央视频道",CCTV16
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$IPv6『线路8』
+http://117.27.190.42:9998/tsfile/live/23249_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV16.png" group-title="央视频道",CCTV16
-http://117.27.190.42:9998/tsfile/live/23249_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路9』
+http://123.114.19.80:4000/rtp/239.3.1.183:8001$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV16.png" group-title="央视频道",CCTV16
-http://123.114.19.80:4000/rtp/239.3.1.184:8001$IPv4『线路10』
+http://111.230.30.193/php/lyd.php?id=6100$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV17.png" group-title="央视频道",CCTV17
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$IPv6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV17.png" group-title="央视频道",CCTV17
@@ -374,11 +374,11 @@ http://123.114.19.80:4000/rtp/239.3.1.146:4120$IPv4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV1.png" group-title="央视频道",CETV1
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8$IPv6『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV1.png" group-title="央视频道",CETV1
-http://dp.sxtv.top:88/live/bestv.php?id=zgjy1$IPv4『线路8』
+http://114.246.183.162:4022/rtp/239.3.1.57:8152$IPv4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV1.png" group-title="央视频道",CETV1
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225652/index.m3u8$IPv6『线路9』
+http://121.24.98.229:8090/hls/67/index.m3u8$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV1.png" group-title="央视频道",CETV1
-http://123.182.163.173:8989/rtp/239.254.200.225:6259$IPv4『线路10』
+http://114.254.82.163:2222/rtp/239.3.1.57:8152$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV2.png" group-title="央视频道",CETV2
 http://[2409:8087:1a0b:df::4013]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$IPv6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV2.png" group-title="央视频道",CETV2
@@ -426,13 +426,13 @@ http://home.oxtv.top:5066/udp/239.21.1.222:5002$IPv4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV4.png" group-title="央视频道",CETV4
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010105/1.m3u8$IPv6『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV4.png" group-title="央视频道",CETV4
-http://dp.sxtv.top:88/live/bestv.php?id=zgjy4$IPv4『线路7』
+http://115.221.81.72:8888/udp/233.50.200.162:5140$IPv4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV4.png" group-title="央视频道",CETV4
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225783/index.m3u8$IPv6『线路8』
+http://dp.sxtv.top:88/live/bestv.php?id=zgjy4$IPv4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV4.png" group-title="央视频道",CETV4
-http://123.182.163.173:8989/rtp/239.254.200.227:6261$IPv4『线路9』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225783/index.m3u8$IPv6『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV4.png" group-title="央视频道",CETV4
-http://111.225.115.28:808/tsfile/live/1030_1.m3u8$IPv4『线路10』
+http://123.182.163.173:8989/rtp/239.254.200.227:6261$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV4K.png" group-title="央视频道",CCTV4K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8$IPv4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV4K.png" group-title="央视频道",CCTV4K
@@ -504,15 +504,15 @@ http://123.114.19.80:4000/rtp/239.3.1.220:4220$IPv4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://my4.zhoujie218.top:50000/ysp/cgtn-russian$IPv4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
-p3p://108.181.20.159:23520/60e648570006544872703d417386353f$IPv4『线路6』
+http://14.145.222.210:8888/udp/239.253.43.201:5146$IPv4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
-http://125.46.132.75:9999/rtp/225.1.5.39:1349$IPv4『线路7』
+http://116.26.39.173:8088/udp/239.253.43.201:5146$IPv4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
-http://42.227.135.155:8089/rtp/225.1.5.39:1349$IPv4『线路8』
+p3p://108.181.20.159:23520/60e648570006544872703d417386353f$IPv4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2$IPv6『线路9』
+http://125.46.132.75:9999/rtp/225.1.5.39:1349$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
-https://pi.0472.org/live/cgtnr.m3u8?token=162210$IPv4『线路10』
+http://42.227.135.155:8089/rtp/225.1.5.39:1349$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN法语.png" group-title="央视频道",CGTN法语
 https://0472.org/hls/cgtnf.m3u8$IPv4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN法语.png" group-title="央视频道",CGTN法语
@@ -524,15 +524,15 @@ http://123.114.19.80:4000/rtp/239.3.1.218:4220$IPv4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN法语.png" group-title="央视频道",CGTN法语
 http://my4.zhoujie218.top:50000/ysp/cgtn-french$IPv4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN法语.png" group-title="央视频道",CGTN法语
-http://125.46.132.75:9999/rtp/225.1.5.37:1347$IPv4『线路6』
+http://14.145.222.210:8888/udp/239.77.0.228:5146$IPv4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN法语.png" group-title="央视频道",CGTN法语
-http://59.172.144.204:10000/rtp/239.69.1.235:11052$IPv4『线路7』
+http://116.26.39.173:8088/udp/239.77.0.228:5146$IPv4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN法语.png" group-title="央视频道",CGTN法语
-http://42.227.135.155:8089/rtp/225.1.5.37:1347$IPv4『线路8』
+http://111.175.164.232:8686/rtp/239.69.1.235:11052$IPv4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN法语.png" group-title="央视频道",CGTN法语
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?m3u8_level=2$IPv6『线路9』
+http://125.46.132.75:9999/rtp/225.1.5.37:1347$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN法语.png" group-title="央视频道",CGTN法语
-https://pi.0472.org/live/cgtnf.m3u8?token=162210$IPv4『线路10』
+http://59.172.144.204:10000/rtp/239.69.1.235:11052$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN纪录.png" group-title="央视频道",CGTN纪录
 https://0472.org/hls/cgtnd.m3u8$IPv4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN纪录.png" group-title="央视频道",CGTN纪录
@@ -544,7 +544,15 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8#https://livedoc.cgtn.
 #EXTINF:-1 tvg-id="5" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN纪录.png" group-title="央视频道",CGTN纪录
 http://home.oxtv.top:5066/udp/239.21.2.31:5002$IPv4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN纪录.png" group-title="央视频道",CGTN纪录
-https://pi.0472.org/live/cgtnjl.m3u8?token=162210$IPv4『线路6』
+http://218.24.59.14:9006/rtp/232.0.0.198:1234$IPv4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN纪录.png" group-title="央视频道",CGTN纪录
+http://218.24.59.14:9007/rtp/232.0.0.198:1234$IPv4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN纪录.png" group-title="央视频道",CGTN纪录
+http://218.24.59.14:9008/rtp/232.0.0.198:1234$IPv4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN纪录.png" group-title="央视频道",CGTN纪录
+http://218.24.59.14:9005/rtp/232.0.0.198:1234$IPv4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN纪录.png" group-title="央视频道",CGTN纪录
+https://pi.0472.org/live/cgtnjl.m3u8?token=162210$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN西语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN西语.png" group-title="央视频道",CGTN西语
 https://0472.org/hls/cgtnx.m3u8$IPv4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CGTN西语" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN西语.png" group-title="央视频道",CGTN西语
@@ -1000,9 +1008,9 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/32
 #EXTINF:-1 tvg-id="8" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河北卫视.png" group-title="卫视频道",河北卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010101/index.m3u8$IPv6『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河北卫视.png" group-title="卫视频道",河北卫视
-http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58#http://tv.pull.hebtv.com/jishi/weishipindao.flv?t=2510710360&k=689e494c226aa7038632a897aa3dbd27#rtmp://tv.pull.hebtv.com/jishi/weishipindao?t=2510710360&k=6cdf3c059a496f8c8375f86e1fb53346$IPv4『线路9』
+http://218.241.192.50:8808/rtp/239.3.1.148:8072$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河北卫视.png" group-title="卫视频道",河北卫视
-http://218.241.192.50:8808/rtp/239.3.1.148:8072$IPv4『线路10』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$IPv6『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河南卫视.png" group-title="卫视频道",河南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$IPv6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河南卫视.png" group-title="卫视频道",河南卫视
@@ -1230,11 +1238,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/32212285
 #EXTINF:-1 tvg-id="3" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://dms.yryyj.site:8188/udp/239.76.246.135:1234$IPv4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://ayolee.com:5253/udp/239.93.0.162:2192$IPv4『线路4』
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$IPv4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$IPv4『线路5』
+http://dms.yryyj.site:8188/udp/239.76.253.135:9000$IPv4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://dms.yryyj.site:8188/udp/239.76.253.135:9000$IPv4『线路6』
+http://ayolee.com:5253/udp/239.93.0.162:2192$IPv4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://ayolee.com:5253/udp/239.93.1.9:2192$IPv4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
@@ -1300,9 +1308,9 @@ http://extraott.com/live/7921751389/6097373662/62830.m3u8$IPv4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰卫视.png" group-title="港·澳·台",凤凰卫视
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv$IPv4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰卫视.png" group-title="港·澳·台",凤凰卫视
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$IPv4『线路9』
+http://171.88.42.147:8888/udp/239.93.0.162:2192$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰卫视.png" group-title="港·澳·台",凤凰卫视
-http://171.88.42.147:8888/udp/239.93.0.162:2192$IPv4『线路10』
+http://60.164.228.49:4040/udp/239.255.30.50:8231$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/翡翠台.png" group-title="港·澳·台",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn$IPv4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/翡翠台.png" group-title="港·澳·台",翡翠台
@@ -1312,17 +1320,17 @@ https://tvb.mytvsuper.us.kg/stream/tvb/null-33/master.m3u8?u=btjson&p=213f2541f1
 #EXTINF:-1 tvg-id="4" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/翡翠台.png" group-title="港·澳·台",翡翠台
 http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8$IPv4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/翡翠台.png" group-title="港·澳·台",翡翠台
-http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv$IPv4『线路5』
+http://zw9999.cnstream.top/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$IPv4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/翡翠台.png" group-title="港·澳·台",翡翠台
-http://zw9999.cnstream.top/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$IPv4『线路6』
+https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8$IPv4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/翡翠台.png" group-title="港·澳·台",翡翠台
-https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8$IPv4『线路7』
+http://fm1077.serv00.net/Smart.php?id=jade_twn$IPv4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/翡翠台.png" group-title="港·澳·台",翡翠台
-http://fm1077.serv00.net/Smart.php?id=jade_twn$IPv4『线路8』
+http://113.83.152.56:8182/bynumber/1$IPv4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/翡翠台.png" group-title="港·澳·台",翡翠台
-http://113.83.152.56:8182/bynumber/1$IPv4『线路9』
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/翡翠台.png" group-title="港·澳·台",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$IPv4『线路10』
+http://metatvpro.xyz:25461/W1045/4329/12205$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/明珠台.png" group-title="港·澳·台",明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn$IPv4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/明珠台.png" group-title="港·澳·台",明珠台
@@ -1352,17 +1360,17 @@ http://125.93.74.27:9002/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0$
 #EXTINF:-1 tvg-id="4" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/厦门卫视.png" group-title="地方频道",厦门卫视
 http://202.100.46.58:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/厦门卫视.png" group-title="地方频道",厦门卫视
-http://123.189.36.7:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路5』
+http://123.189.36.86:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/厦门卫视.png" group-title="地方频道",厦门卫视
-http://123.189.36.86:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路6』
+http://124.128.73.58:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/厦门卫视.png" group-title="地方频道",厦门卫视
 http://wuqianmu.synology.me:4000/udp/232.0.0.160:1234$IPv4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/厦门卫视.png" group-title="地方频道",厦门卫视
 http://123.114.19.80:4000/rtp/239.3.1.143:4120$IPv4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/厦门卫视.png" group-title="地方频道",厦门卫视
-http://[2409:8087:74F1:0021::0008]/270000001128/9900000058/index.m3u8$IPv6『线路9』
+http://123.189.36.7:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/厦门卫视.png" group-title="地方频道",厦门卫视
-http://124.128.73.58:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路10』
+http://119.62.36.174:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黄河卫视.png" group-title="地方频道",黄河卫视
 http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true$IPv4『线路1』
 #EXTINF:-1 tvg-id="1" tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/安多卫视.png" group-title="地方频道",安多卫视
@@ -1394,37 +1402,37 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="4" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
 http://118.122.2.29:9999/hls/39/index.m3u8$IPv4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
-http://61.157.139.15:9901/tsfile/live/2415_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路5』
+https://stream1.freetv.fun/e1854d983296da1d0804b07dcd259f5aafc1d7f17f59b6e0001d2a0741b5c608.m3u8$IPv4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
-https://stream1.freetv.fun/e1854d983296da1d0804b07dcd259f5aafc1d7f17f59b6e0001d2a0741b5c608.m3u8$IPv4『线路6』
+http://218.80.79.205:4022/udp/239.45.1.251:5140$IPv4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
-http://218.80.79.205:4022/udp/239.45.1.251:5140$IPv4『线路7』
+http://[2409:8087:2801:22:100::45]/wh7f454c46tw1269819384_-1961375632/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236185/index.m3u8?icpid=88888888&RTS=1717812094&from=5&hms_devid=1640&online=1717812094&vqe=3$IPv6『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
-http://[2409:8087:2801:22:100::45]/wh7f454c46tw1269819384_-1961375632/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236185/index.m3u8?icpid=88888888&RTS=1717812094&from=5&hms_devid=1640&online=1717812094&vqe=3$IPv6『线路8』
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225856/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPv6『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225856/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPv6『线路9』
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225856/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPv6『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225856/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPv6『线路10』
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3423902933_-437655574/ott.mobaibox.com/PLTV/3/224/3221227645/index.m3u8$IPv6『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/农林卫视.png" group-title="地方频道",农林卫视
-http://123.189.36.86:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路1』
+http://123.189.36.7:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/农林卫视.png" group-title="地方频道",农林卫视
-https://stream1.freetv.fun/cb703e6e694023c63361a9fd5db877c3d6b00dd7e4e63c6e4d5ccf56f8b3a58b.m3u8$IPv4『线路2』
+http://123.189.36.86:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/农林卫视.png" group-title="地方频道",农林卫视
-http://123.189.36.155:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路3』
+https://stream1.freetv.fun/cb703e6e694023c63361a9fd5db877c3d6b00dd7e4e63c6e4d5ccf56f8b3a58b.m3u8$IPv4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/农林卫视.png" group-title="地方频道",农林卫视
-https://stream1.freetv.fun/fe99380ce76011ac28d24fb52afe030d6fb320bf5afe31a04fb2746964932ff7.m3u8$IPv4『线路4』
+http://123.189.36.155:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/农林卫视.png" group-title="地方频道",农林卫视
-http://mdxgh.tpddns.cn:88/mdxgh/nonglin$IPv4『线路5』
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226335/index.m3u8$IPv4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/农林卫视.png" group-title="地方频道",农林卫视
-http://[2409:8087:74F1:0021::0008]/270000001128/9900000060/index.m3u8$IPv6『线路6』
+https://stream1.freetv.fun/fe99380ce76011ac28d24fb52afe030d6fb320bf5afe31a04fb2746964932ff7.m3u8$IPv4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/农林卫视.png" group-title="地方频道",农林卫视
-http://223.11.152.223:7777/udp/239.1.1.73:8073$IPv4『线路7』
+http://mdxgh.tpddns.cn:88/mdxgh/nonglin$IPv4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/农林卫视.png" group-title="地方频道",农林卫视
-http://123.189.36.7:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路8』
+http://[2409:8087:74F1:0021::0008]/270000001128/9900000060/index.m3u8$IPv6『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/农林卫视.png" group-title="地方频道",农林卫视
-http://120.76.248.139/live/bfgd/4200000122.m3u8$IPv4『线路9』
+http://223.11.152.223:7777/udp/239.1.1.73:8073$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/农林卫视.png" group-title="地方频道",农林卫视
-http://113.128.128.68:8688/udp/239.21.1.235:5002$IPv4『线路10』
+http://120.76.248.139/live/bfgd/4200000122.m3u8$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/三沙卫视.png" group-title="地方频道",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS$IPv6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/三沙卫视.png" group-title="地方频道",三沙卫视
@@ -1462,29 +1470,29 @@ http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8$IPv4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
 http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8$IPv4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?$IPv4『线路9』
+http://124.94.193.136:9902/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8$IPv4『线路10』
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$IPv6『线路2』
+https://pi.0472.org/chc/dz.m3u8$IPv4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2$IPv6『线路3』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$IPv6『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8$IPv4『线路4』
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2$IPv6『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://218.76.32.193:9901/tsfile/live/1020_1.m3u8$IPv4『线路5』
+http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8$IPv4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-https://pi.0472.org/chc/dz.m3u8$IPv4『线路6』
+http://218.76.32.193:9901/tsfile/live/1020_1.m3u8$IPv4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://119.98.133.130:4000/rtp/239.69.1.242:11094$IPv4『线路7』
+http://180.213.171.141:8000/rtp/239.5.1.52:5000$IPv4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://180.213.171.141:8000/rtp/239.5.1.52:5000$IPv4『线路8』
+http://183.185.228.90:8084/rtp/226.0.2.94:8012$IPv4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://183.185.228.90:8084/rtp/226.0.2.94:8012$IPv4『线路9』
+http://171.120.108.234:8083/rtp/226.0.2.94:8012$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://171.120.108.234:8083/rtp/226.0.2.94:8012$IPv4『线路10』
+http://171.124.99.181:8083/rtp/226.0.2.94:8012$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC高清电影.png" group-title="数字频道",CHC高清电影
 http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8$IPv4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC高清电影.png" group-title="数字频道",CHC高清电影
@@ -1498,23 +1506,23 @@ http://115.45.102.23:8888/udp/239.77.0.27:5146$IPv4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC高清电影.png" group-title="数字频道",CHC高清电影
 http://59.38.62.147:2052/udp/239.77.0.27:5146$IPv4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC高清电影.png" group-title="数字频道",CHC高清电影
-http://183.185.222.242:8082/rtp/226.0.2.93:8004$IPv4『线路7』
+http://61.185.200.55:10000/rtp/239.112.205.206:5140$IPv4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC高清电影.png" group-title="数字频道",CHC高清电影
-http://61.185.200.55:10000/rtp/239.112.205.206:5140$IPv4『线路8』
+http://106.59.3.147:55555/udp/239.200.201.34:8148$IPv4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC高清电影.png" group-title="数字频道",CHC高清电影
-http://106.59.3.147:55555/udp/239.200.201.34:8148$IPv4『线路9』
+http://118.254.200.222:8888/udp/239.76.245.242:1234$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC高清电影.png" group-title="数字频道",CHC高清电影
-http://118.254.200.222:8888/udp/239.76.245.242:1234$IPv4『线路10』
+http://ddns.cyruslee.top:8888/udp/239.77.0.27:5146$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$IPv4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2$IPv6『线路2』
+https://pi.0472.org/chc/jt.m3u8$IPv4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8$IPv4『线路3』
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2$IPv6『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-https://pi.0472.org/chc/jt.m3u8$IPv4『线路4』
+http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8$IPv4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://119.98.133.130:4000/rtp/239.69.1.243:11100$IPv4『线路5』
+http://111.175.164.232:8686/rtp/239.69.1.243:11100$IPv4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://180.213.171.141:8000/rtp/239.5.1.50:5000$IPv4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
@@ -1524,7 +1532,7 @@ http://171.120.108.234:8083/rtp/226.0.2.240:9820$IPv4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://118.254.203.144:8888/udp/239.76.245.241:1234$IPv4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://183.185.223.157:8082/rtp/226.0.2.240:9820$IPv4『线路10』
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540$IPv4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="NewTV惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV惊悚悬疑.png" group-title="数字频道",NewTV惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$IPv4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="NewTV惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV惊悚悬疑.png" group-title="数字频道",NewTV惊悚悬疑
@@ -1559,425 +1567,3 @@ http://gslbserv.itv.cmvideo.cn/1000000004000021734/1.m3u8?channel-id=ystenlive&C
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$IPv6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="NewTV精品记录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV精品记录.png" group-title="数字频道",NewTV精品记录
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000019/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000019&livemode=1&stbId=3$IPv6『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="直播中国" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",直播中国
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001$IPv4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="直播中国" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",直播中国
-http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8$IPv4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="安徽池州九华山风景区花台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",安徽池州九华山风景区花台
-https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="安徽池州九华山风景区九华山" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",安徽池州九华山风景区九华山
-https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="安徽歙县西递牌坊" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",安徽歙县西递牌坊
-https://gctxyc.liveplay.myqcloud.com/gc/yxxdpf_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="安徽黟县宏村月沼" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",安徽黟县宏村月沼
-https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="安徽黟县芦村远眺" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",安徽黟县芦村远眺
-https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="安徽黟县西递半山亭" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",安徽黟县西递半山亭
-https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="安徽黟县西递牌坊" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",安徽黟县西递牌坊
-https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="八达岭长城北十楼" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",八达岭长城北十楼
-https://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="八达岭长城南七楼" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",八达岭长城南七楼
-https://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="八里沟风景区桃花湾瀑布" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",八里沟风景区桃花湾瀑布
-https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="八里沟风景区天界山玻璃栈道" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",八里沟风景区天界山玻璃栈道
-https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="北京钟鼓楼" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",北京钟鼓楼
-https://gctxyc.liveplay.myqcloud.com/gc/ztd_1_md.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="成都大熊猫24小时" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",成都大熊猫24小时
-https://gcwbcdbd.a.bdydns.com/gcwbcd/cdrmipanda_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="成都大熊猫成年园B" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",成都大熊猫成年园B
-https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/xiongmao02_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="成都大熊猫母子园A" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",成都大熊猫母子园A
-https://gcwbndbd.a.bdydns.com/gcwbnd/xiongmao07_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="成都大熊猫母子园B" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",成都大熊猫母子园B
-https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao08_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="成都大熊猫一号别墅A" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",成都大熊猫一号别墅A
-https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/xiongmao09_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="成都大熊猫一号别墅B" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",成都大熊猫一号别墅B
-https://gcwbndbd.a.bdydns.com/gcwbnd/xiongmao10_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="成都大熊猫幼儿园B" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",成都大熊猫幼儿园B
-https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/xiongmao06_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="成都大熊猫幼年园A" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",成都大熊猫幼年园A
-https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao03_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="成都大熊猫幼年园B" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",成都大熊猫幼年园B
-https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao04_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="丹霞山丹梯铁锁" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",丹霞山丹梯铁锁
-https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="丹霞山韶音亭" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",丹霞山韶音亭
-https://gcalic.v.myalicdn.com/gc/dxssyt_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="都江堰大熊猫24小时" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",都江堰大熊猫24小时
-https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="都江堰大熊猫24小时" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",都江堰大熊猫24小时
-https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/ipanda1000_2/index.m3u8$IPv4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="都江堰大熊猫B" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",都江堰大熊猫B
-https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao12_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="都江堰大熊猫C" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",都江堰大熊猫C
-https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao13_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="都江堰大熊猫D" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",都江堰大熊猫D
-https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao14_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="都江堰大熊猫E" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",都江堰大熊猫E
-https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao15_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="都江堰大熊猫F" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",都江堰大熊猫F
-https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao16_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="都江堰大熊猫G" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",都江堰大熊猫G
-https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao20_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="都江堰鱼嘴" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",都江堰鱼嘴
-https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰古城东关门" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",凤凰古城东关门
-https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰古城南华山" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",凤凰古城南华山
-https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="凤凰古城南华山" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",凤凰古城南华山
-http://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1_md.m3u8$IPv4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="福建福安赛岐镇象环葡萄园" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",福建福安赛岐镇象环葡萄园
-https://gctxyc.liveplay.myqcloud.com/gc/cntv402-zbzg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="福建南平茶平乡万亩茶园" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",福建南平茶平乡万亩茶园
-https://gctxyc.liveplay.myqcloud.com/gc/cntv401-zbzg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="福建宁德太姥山景区" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",福建宁德太姥山景区
-https://gcalic.v.myalicdn.com/gc/tms01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="福建莆田湄洲妈祖祖庙" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",福建莆田湄洲妈祖祖庙
-https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="福建武夷山" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",福建武夷山
-https://gctxyc.liveplay.myqcloud.com/gc/wysynf_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="福建漳州醉美沙滩翡翠湾" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",福建漳州醉美沙滩翡翠湾
-https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="广东车八岭国家级自然保护区" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",广东车八岭国家级自然保护区
-https://gctxyc.liveplay.myqcloud.com/gc/ztx_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="广东汕头市小公园" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",广东汕头市小公园
-https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="广东珠海大剧院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",广东珠海大剧院
-https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="广西桂林漓江景区" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",广西桂林漓江景区
-https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="广西玉林大容山莲花山顶" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",广西玉林大容山莲花山顶
-https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="桂林象山公园" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",桂林象山公园
-https://gcalic.v.myalicdn.com/gc/glxs01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="贵州黄果树瀑布" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",贵州黄果树瀑布
-https://gctxyc.liveplay.myqcloud.com/gc/nxspthhpl_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="贵州黄果树瀑布" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",贵州黄果树瀑布
-https://gctxyc.liveplay.myqcloud.com/gc/nxspthhpl_1_md.m3u8$IPv4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="贵州六盘水野玉海度假区玻璃桥" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",贵州六盘水野玉海度假区玻璃桥
-https://gctxyc.liveplay.myqcloud.com/gc/cntv535-zbzg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="贵州黔南州瓮安县建中镇" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",贵州黔南州瓮安县建中镇
-https://gctxyc.liveplay.myqcloud.com/gc/ytsbjy_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="贵州省兴义市马岭河峡谷" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",贵州省兴义市马岭河峡谷
-https://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="贵州省兴义市万峰林" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",贵州省兴义市万峰林
-https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="贵州省贞丰市双峰景区" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",贵州省贞丰市双峰景区
-https://gcalic.v.myalicdn.com/gc/xysrf_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="海南七仙岭温泉国家森林公园" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",海南七仙岭温泉国家森林公园
-https://gctxyc.liveplay.myqcloud.com/gc/cntv549-zbzg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="河南信阳汪桥镇思乡谷" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",河南信阳汪桥镇思乡谷
-https://gctxyc.liveplay.myqcloud.com/gc/cntv546-zbzg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="黑龙江哈尔滨霁虹桥" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",黑龙江哈尔滨霁虹桥
-https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="恒山悬空寺全景" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",恒山悬空寺全景
-https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="恒宗" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",恒宗
-https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="湖南郴州仰天湖" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",湖南郴州仰天湖
-https://gctxyc.liveplay.myqcloud.com/gc/cntv451-zbzg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="湖南张家界宝峰湖" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",湖南张家界宝峰湖
-https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="湖南张家界将军列队" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",湖南张家界将军列队
-https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="湖南张家界迷魂台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",湖南张家界迷魂台
-https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="湖南张家界水绕四门" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",湖南张家界水绕四门
-https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="湖南张家界天门山天空步道" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",湖南张家界天门山天空步道
-https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="湖南张家界天门山天空步道" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",湖南张家界天门山天空步道
-https://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive_djy03_2/index.m3u8$IPv4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="湖南张家界天门山西线玻璃栈道" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",湖南张家界天门山西线玻璃栈道
-https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="湖南张家界御笔峰" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",湖南张家界御笔峰
-https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="华山" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",华山
-https://gcalic.v.myalicdn.com/gc/hkhs01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="黄果树六角亭瀑布" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",黄果树六角亭瀑布
-https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="黄果树银链坠潭瀑布" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",黄果树银链坠潭瀑布
-https://gcalic.v.myalicdn.com/gc/hgsylztpb_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="黄花城水长城01" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",黄花城水长城01
-https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="黄花城水长城03" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",黄花城水长城03
-https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="黄花城水长城04" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",黄花城水长城04
-https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="黄龙" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",黄龙
-https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="黄山" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",黄山
-https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="黄山飞来石" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",黄山飞来石
-https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="黄山光明顶" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",黄山光明顶
-https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="黄山梦笔生花" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",黄山梦笔生花
-https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="黄山排云亭" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",黄山排云亭
-https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="黄山平天矼" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",黄山平天矼
-https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="黄山始信新道" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",黄山始信新道
-https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="吉林市临江门大桥" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",吉林市临江门大桥
-https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="吉林四平战役纪念馆" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",吉林四平战役纪念馆
-https://gctxyc.liveplay.myqcloud.com/gc/taishan04_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="江苏南京牛首山" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",江苏南京牛首山
-https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="江苏南京牛首山" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",江苏南京牛首山
-http://gctxyc.liveplay.myqcloud.com/gc/nss01_1_md.m3u8$IPv4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="江苏南京玄武湖" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",江苏南京玄武湖
-https://gctxyc.liveplay.myqcloud.com/gc/xwh01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="江苏无锡大剧院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",江苏无锡大剧院
-https://gctxyc.liveplay.myqcloud.com/gc/hkts07_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="江苏徐州云龙湖风景区云龙山观景台西" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",江苏徐州云龙湖风景区云龙山观景台西
-https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="江西龙虎山山涧栈道" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",江西龙虎山山涧栈道
-https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="江西龙虎山中间水泡" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",江西龙虎山中间水泡
-https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="乐山大佛全景" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",乐山大佛全景
-https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="丽江古城大水车" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",丽江古城大水车
-https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="丽江古城大研花巷观景" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",丽江古城大研花巷观景
-https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="丽江古城万古楼遥望玉龙山" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",丽江古城万古楼遥望玉龙山
-https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="丽江古城万古楼遥望玉龙雪山" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",丽江古城万古楼遥望玉龙雪山
-https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="辽宁沈阳浑河桥" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",辽宁沈阳浑河桥
-https://gctxyc.liveplay.myqcloud.com/gc/ljgcdsc_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="六盘山红军长征景区" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",六盘山红军长征景区
-https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="鸣沙山" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",鸣沙山
-https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="鸣沙山山门" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",鸣沙山山门
-https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="南京玄武湖公园" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",南京玄武湖公园
-https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="南天一柱" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",南天一柱
-https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="内蒙古呼伦贝尔哈萨尔大桥" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",内蒙古呼伦贝尔哈萨尔大桥
-https://gctxyc.liveplay.myqcloud.com/gc/ytshsx_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="宁夏黄河大峡谷" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",宁夏黄河大峡谷
-https://gcalic.v.myalicdn.com/gc/hhdxg01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="宁夏将台堡" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",宁夏将台堡
-https://gctxyc.liveplay.myqcloud.com/gc/hlxsd_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="宁夏沙坡头" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",宁夏沙坡头
-https://gctxyc.liveplay.myqcloud.com/gc/cntv466-zbzg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="普陀山" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",普陀山
-https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="青岛崂山八水河" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",青岛崂山八水河
-https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="青岛崂山灵旗峰" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",青岛崂山灵旗峰
-https://gcalic.v.myalicdn.com/gc/qdls01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="青岛崂山双福" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",青岛崂山双福
-https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="青岛崂山太清" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",青岛崂山太清
-https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="日月石" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",日月石
-https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="三亚南山文化旅游区海上观音" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",三亚南山文化旅游区海上观音
-https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="厦门鼓浪屿" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",厦门鼓浪屿
-https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="山东威海成山头" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",山东威海成山头
-https://gctxyc.liveplay.myqcloud.com/gc/drs01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="山西运城圣天湖" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",山西运城圣天湖
-https://gctxyc.liveplay.myqcloud.com/gc/cntv486-zbzg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="陕西凤堰古梯田" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",陕西凤堰古梯田
-https://gcalic.v.myalicdn.com/gc/cntv407-zbzg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="陕西汉中宁强县青木川古镇" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",陕西汉中宁强县青木川古镇
-https://gcalic.v.myalicdn.com/gc/cntv406-zbzg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="陕西汉中渔渡风景区" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",陕西汉中渔渡风景区
-https://gctxyc.liveplay.myqcloud.com/gc/cntv404-zbzg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="陕西渭河湿地公园景区" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",陕西渭河湿地公园景区
-https://gctxyc.liveplay.myqcloud.com/gc/zh02_1_md.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="陕西西安樊川" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",陕西西安樊川
-https://gcalic.v.myalicdn.com/gc/cntv506-zbzg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="陕西西安樊川" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",陕西西安樊川
-https://gctxyc.liveplay.myqcloud.com/gc/cntv506-zbzg_1/index.m3u8$IPv4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="陕西西安蓝田县白鹿原" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",陕西西安蓝田县白鹿原
-https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="陕西西安周至水街二号码头" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",陕西西安周至水街二号码头
-https://gcalic.v.myalicdn.com/gc/cntv414-zbzg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="陕西洋县国宝朱鹮02" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",陕西洋县国宝朱鹮02
-https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="陕西洋县国宝朱鹮03" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",陕西洋县国宝朱鹮03
-https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="陕西洋县国宝朱鹮04" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",陕西洋县国宝朱鹮04
-https://gcalic.v.myalicdn.com/gc/zh04_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="陕西榆林神木市大柳塔镇" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",陕西榆林神木市大柳塔镇
-https://mlivewbndbd.a.bdydns.com/mlivewbnd/mlive_sls02_2/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="陕西榆林杨家沟革命旧址" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",陕西榆林杨家沟革命旧址
-https://gctxyc.liveplay.myqcloud.com/gc/bgws7_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="上海南浦大桥" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",上海南浦大桥
-https://gctxyc.liveplay.myqcloud.com/gc/tjhh01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="深圳世界之窗文化主题公园" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",深圳世界之窗文化主题公园
-https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="神农架金丝猴01" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",神农架金丝猴01
-https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="狮子山鸟瞰丽江古城" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",狮子山鸟瞰丽江古城
-https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="四川成都安顺廊桥" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川成都安顺廊桥
-https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="四川成都春熙路太古里" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川成都春熙路太古里
-https://gctxyc.liveplay.myqcloud.com/gc/lhssjzd_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="四川成都环球中心" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川成都环球中心
-https://gctxyc.liveplay.myqcloud.com/gc/jsh02_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="四川峨眉山普贤菩萨" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川峨眉山普贤菩萨
-https://gctxyc.liveplay.myqcloud.com/gc/gccntv241-slf01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="四川峨眉山普贤菩萨铜像" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川峨眉山普贤菩萨铜像
-https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="四川峨眉山远眺贡嘎山" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川峨眉山远眺贡嘎山
-https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="四川峨眉山远眺贡嘎雪山" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川峨眉山远眺贡嘎雪山
-https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="四川峨眉山远眺万佛顶" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川峨眉山远眺万佛顶
-https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="四川峨眉山云海日出" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川峨眉山云海日出
-https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="四川甘孜州石渠县" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川甘孜州石渠县
-https://gctxyc.liveplay.myqcloud.com/gc/dlst02_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="四川黄龙五彩池" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川黄龙五彩池
-https://gctxyc.liveplay.myqcloud.com/gc/hlwcc_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="四川黄龙五彩池" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川黄龙五彩池
-https://gctxyc.liveplay.myqcloud.com/gc/hlwcc_1_md.m3u8$IPv4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="四川四姑娘山隆珠措" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川四姑娘山隆珠措
-https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="四川四姑娘山隆珠措" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川四姑娘山隆珠措
-http://gctxyc.liveplay.myqcloud.com/gc/sgns02_1/index.m3u8$IPv4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="四川西昌市邛海景区" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",四川西昌市邛海景区
-https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="嵩山少林寺广场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",嵩山少林寺广场
-https://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山白云亭悬崖" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山白云亭悬崖
-https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山碧霞祠" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山碧霞祠
-https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山大观峰" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山大观峰
-https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山拱北石" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山拱北石
-https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山经石峪" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山经石峪
-https://gcalic.v.myalicdn.com/gc/hkts04_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山龙潭水库" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山龙潭水库
-https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山南天门" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山南天门
-https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山扇子崖" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山扇子崖
-https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山十八盘" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山十八盘
-https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山太平岭" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山太平岭
-https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山天街" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山天街
-https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山望人松" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山望人松
-https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山玉皇顶" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山玉皇顶
-https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山玉皇顶东" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山玉皇顶东
-https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山玉皇顶西" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山玉皇顶西
-https://gcalic.v.myalicdn.com/gc/hkts11_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="泰山主峰" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",泰山主峰
-https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="天涯鸟瞰" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",天涯鸟瞰
-https://gcalic.v.myalicdn.com/gc/tyhjtynl_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="天涯石" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",天涯石
-https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="望乡台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",望乡台
-https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="乌镇蓝印花布" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",乌镇蓝印花布
-https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="乌镇龙形田" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",乌镇龙形田
-https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="乌镇全景" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",乌镇全景
-https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="乌镇西市河" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",乌镇西市河
-https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="五彩池" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",五彩池
-https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="婺源01" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",婺源01
-https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="西藏林芝工布公园" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",西藏林芝工布公园
-https://gcalic.v.myalicdn.com/gc/bsszbcs_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="洗身洞" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",洗身洞
-https://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="仙都风景区" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",仙都风景区
-https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="新疆巩留县蝶湖景区" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",新疆巩留县蝶湖景区
-https://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="新疆喀什达瓦昆景区" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",新疆喀什达瓦昆景区
-https://gctxyc.liveplay.myqcloud.com/gc/cntv524-zbzg_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="新疆天山(灯杆山)" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",新疆天山(灯杆山)
-https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="新疆天山(定海神针)" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",新疆天山(定海神针)
-https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="新疆天山(定海神针)" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",新疆天山(定海神针)
-http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8$IPv4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="新疆天山(马牙山)" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",新疆天山(马牙山)
-https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="雪乡大石碑" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",雪乡大石碑
-https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="雪乡梦幻家园" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",雪乡梦幻家园
-https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="月牙泉" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",月牙泉
-https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="云南大理崇圣寺三塔湖面" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",云南大理崇圣寺三塔湖面
-https://gcalic.v.myalicdn.com/gc/dlst02_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="云南大理崇圣寺三塔远景" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",云南大理崇圣寺三塔远景
-https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="云南大理崇圣寺三塔中景" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",云南大理崇圣寺三塔中景
-https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="云南红河哈尼梯田多依树景点" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",云南红河哈尼梯田多依树景点
-https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="云南红河哈尼梯田老虎嘴" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",云南红河哈尼梯田老虎嘴
-https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="云南红河哈尼梯田普高老寨" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",云南红河哈尼梯田普高老寨
-https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="云南建水双龙桥" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",云南建水双龙桥
-https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="云南丽江冰川" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",云南丽江冰川
-https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="云南丽江蓝月谷" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",云南丽江蓝月谷
-https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="云南丽江印象实景" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",云南丽江印象实景
-https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="云南丽江玉龙山草甸" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",云南丽江玉龙山草甸
-https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="云南丽江玉龙雪山草甸" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",云南丽江玉龙雪山草甸
-https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="云台山百家岩" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",云台山百家岩
-https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="张掖七彩丹霞" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",张掖七彩丹霞
-https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="浙江台州三门核电站" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",浙江台州三门核电站
-https://gctxyc.liveplay.myqcloud.com/gc/hsptgz_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="浙江舟山东极岛" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",浙江舟山东极岛
-https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="浙江舟山沈家门渔港" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",浙江舟山沈家门渔港
-https://gctxyc.liveplay.myqcloud.com/gc/hgsspzxdpb_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="中车齐车集团" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",中车齐车集团
-https://gctxyc.liveplay.myqcloud.com/gc/zhhd01_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="中央电视塔北" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",中央电视塔北
-https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="中央电视塔东" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",中央电视塔东
-https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="中央电视塔南" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",中央电视塔南
-https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="重庆李子坝站轻轨" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",重庆李子坝站轻轨
-https://gctxyc.liveplay.myqcloud.com/gc/ylh04_1/index.m3u8$IPv4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="重庆李子坝站轻轨" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/直播中国.png" group-title="直播中国",重庆李子坝站轻轨
-https://gctxyc.liveplay.myqcloud.com/gc/ylh04_1_md.m3u8$IPv4『线路2』
