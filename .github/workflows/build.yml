@@ -21,7 +21,7 @@ jobs:
         with:
           ref: ${{ github.ref_name }}
           path: src
-      - name: Checkout Branch cooked
+      - name: Checkout Branch dist
         uses: actions/checkout@v4
         with:
           ref: dist

@@ -14,10 +14,15 @@ from pprint import pprint
 import requests
 import zhconv
 
+DEBUG = os.environ.get('DEBUG', None) is not None
+IPTV_CONFIG = os.environ.get('IPTV_CONFIG') or 'config.ini'
+IPTV_CHANNEL = os.environ.get('IPTV_CHANNEL') or 'channel.txt'
+IPTV_DIST = os.environ.get('IPTV_DIST') or 'dist'
+IPTV_TMP = os.environ.get('IPTV_TMP') or 'tmp'
+
+
 DEF_LINE_LIMIT = 10
 DEF_REQUEST_TIMEOUT = 10
-
-DEBUG = os.environ.get('DEBUG', None) is not None
 
 logging.basicConfig(
     level=logging.DEBUG if DEBUG else logging.INFO,
@@ -95,7 +100,7 @@ class IPTV:
     def get_config(self, key, *convs, default=None):
         if not self.raw_config:
             self.raw_config = ConfigParser()
-            self.raw_config.read('config.ini')
+            self.raw_config.read(IPTV_CONFIG)
 
         try:
             value = self.raw_config.get('config', key)
@@ -106,6 +111,18 @@ class IPTV:
             return default
         except NoOptionError:
             return default
+
+
+    def _get_path(self, dir_, file):
+        if not os.path.isdir(dir_):
+            os.makedirs(dir_, exist_ok=True)
+        return os.path.join(dir_, file)
+
+    def get_dist(self, file):
+        return self._get_path(IPTV_DIST, file)
+
+    def get_tmp(self, file):
+        return self._get_path(IPTV_TMP, file)
 
     @property
     def cate_logos(self):
@@ -123,7 +140,7 @@ class IPTV:
 
     def load_channels(self):
         current = ''
-        with open('channel.txt') as fp:
+        with open(IPTV_CHANNEL) as fp:
             for line in fp.readlines():
                 line = line.strip()
                 if not line or line.startswith('#'):
@@ -301,8 +318,8 @@ class IPTV:
                 return
             yield index + 1, chl
 
-    def export_m3u(self, dist):
-        dst = os.path.join(dist, 'live.m3u')
+    def export_m3u(self):
+        dst = self.get_dist('live.m3u')
         epgs = self.get_config('epg', conv_list, lambda d: ','.join(f'"{e}"' for e in d), default=[])
         logo_url_prefix = self.get_config('logo_url_prefix', lambda s: s.rstrip('/'))
 
@@ -320,8 +337,8 @@ class IPTV:
             # fp.write('{}${}『线路{}』\n'.format(uri['uri'], 'IPv6' if uri['ipv6'] else 'IPv4', index))
         logging.info(f'导出M3U: {dst}')
 
-    def export_txt(self, dist):
-        dst = os.path.join(dist, 'live.txt')
+    def export_txt(self):
+        dst = self.get_dist('live.txt')
         with open(dst, 'w') as fp:
             for cate, chls in self.channel_cates.items():
                 fp.write(f'{cate},#genre#\n')
@@ -339,21 +356,19 @@ class IPTV:
                 data[cate].setdefault(chl_name, [])
                 for index, uri in self.enum_channel_uri(chl_name):
                     data[cate][chl_name].append(uri)
-        with open('tmp/channels.json', 'w') as fp:
+        with open(self.get_tmp('channels.json'), 'w') as fp:
             json.dump(data, fp, indent=4, ensure_ascii=False)
 
     def export(self):
-        dist = 'dist'
-        os.makedirs(dist, exist_ok=True)
         self.sort_channels()
-        self.export_m3u(dist)
-        self.export_txt(dist)
+        self.export_m3u()
+        self.export_txt()
 
         if DEBUG:
             for k in self.raw_channels:
                 self.raw_channels[k].sort(key=lambda i: i['count'], reverse=True)
             os.makedirs('tmp', exist_ok=True)
-            with open('tmp/channels_raw.json', 'w') as fp:
+            with open(self.get_tmp('channels_raw.json'), 'w') as fp:
                 json.dump(self.raw_channels, fp, indent=4, ensure_ascii=False)
             self.export_json()
 
