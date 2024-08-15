@@ -23,6 +23,7 @@ IPTV_TMP = os.environ.get('IPTV_TMP') or 'tmp'
 
 DEF_LINE_LIMIT = 10
 DEF_REQUEST_TIMEOUT = 10
+DEF_INFO_LINE = "https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"
 
 logging.basicConfig(
     level=logging.DEBUG if DEBUG else logging.INFO,
@@ -318,6 +319,26 @@ class IPTV:
                 return
             yield index + 1, chl
 
+    def export_info(self, fmt='m3u', fp=None):
+        if self.get_config('disable_export_info', conv_bool, default=False):
+            return
+        day = datetime.now().strftime('%Y-%m-%d')
+        url = DEF_INFO_LINE
+        output = []
+
+        if fmt == 'm3u':
+            logo_url_prefix = self.get_config('logo_url_prefix', lambda s: s.rstrip('/'))
+            output.append(f'#EXTINF:-1 tvg-id="1" tvg-name="{day}" tvg-logo="{logo_url_prefix}/default.png" group-title="更新信息",{day}')
+            output.append(f'{url}')
+        else:
+            output.append('更新信息,#genre#')
+            output.append(f'{day},{url}')
+
+        output = '\n'.join(output)
+        if fp:
+            fp.write(output)
+        return output
+
     def export_m3u(self):
         dst = self.get_dist('live.m3u')
         epgs = self.get_config('epg', conv_list, lambda d: ','.join(f'"{e}"' for e in d), default=[])
@@ -333,8 +354,7 @@ class IPTV:
                         logo = self.cate_logos[cate] if cate in self.cate_logos else f'{chl_name}.png'
                         fp.write(f'#EXTINF:-1 tvg-id="{index}" tvg-name="{chl_name}" tvg-logo="{logo_url_prefix}/{logo}" group-title="{cate}",{chl_name}\n')
                         fp.write('{}${}『线路{}』\n'.format(uri['uri'], 'IPv6' if uri['ipv6'] else 'IPv4', index))
-            # fp.write(f'#EXTINF:-1 tvg-id="1" tvg-name="{chl_name}" tvg-logo="{logo}" group-title="更新说明",{chl_nam}\n')
-            # fp.write('{}${}『线路{}』\n'.format(uri['uri'], 'IPv6' if uri['ipv6'] else 'IPv4', index))
+            self.export_info(fmt='m3u', fp=fp)
         logging.info(f'导出M3U: {dst}')
 
     def export_txt(self):
@@ -346,6 +366,7 @@ class IPTV:
                     for index, uri in self.enum_channel_uri(chl_name):
                         fp.write('{},{}${}『线路{}』\n'.format(chl_name, uri['uri'], 'IPv6' if uri['ipv6'] else 'IPv4', index))
                 fp.write('\n\n')
+            self.export_info(fmt='txt', fp=fp)
         logging.info(f'导出TXT: {dst}')
 
     def export_json(self):
