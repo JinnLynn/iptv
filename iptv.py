@@ -346,7 +346,7 @@ class IPTV:
 
         for u in self.channels[name]:
             if u['uri'] == url:
-                u['count'] += u['count'] + 1
+                u['count'] = u['count'] + 1
                 return
         self.channels[name].append({'uri': url, 'count': 1, 'ipv6': is_ipv6(url)})
 
