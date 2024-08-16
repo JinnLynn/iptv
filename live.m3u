@@ -1723,22 +1723,72 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000017/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3$IPv6『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV动作电影.png" group-title="数字频道",NewTV动作电影
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3$IPv6『线路7』
-#EXTINF:-1 tvg-id="1" tvg-name="NewTv超级电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTv超级电影.png" group-title="数字频道",NewTv超级电影
+#EXTINF:-1 tvg-id="1" tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级电影.png" group-title="数字频道",NewTV超级电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$IPv6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级电影.png" group-title="数字频道",NewTV超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$IPv4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级电影.png" group-title="数字频道",NewTV超级电影
+http://39.134.65.162/PLTV/88888888/224/3221225644/1.m3u8$IPv4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级电影.png" group-title="数字频道",NewTV超级电影
+http://39.134.65.175/PLTV/88888888/224/3221225644/1.m3u8$IPv4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级电影.png" group-title="数字频道",NewTV超级电影
+http://39.134.65.179/PLTV/88888888/224/3221225644/1.m3u8$IPv4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级电影.png" group-title="数字频道",NewTV超级电影
+http://39.134.65.173/PLTV/88888888/224/3221225644/1.m3u8$IPv4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级电影.png" group-title="数字频道",NewTV超级电影
+http://39.134.65.208/PLTV/88888888/224/3221225644/index.m3u8$IPv4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级电影.png" group-title="数字频道",NewTV超级电影
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8$IPv4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级电影.png" group-title="数字频道",NewTV超级电影
+http://gslbserv.itv.cmvideo.cn/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3$IPv4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级电影.png" group-title="数字频道",NewTV超级电影
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3$IPv6『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="NewTV黑莓动画" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV黑莓动画.png" group-title="数字频道",NewTV黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$IPv6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="NewTV黑莓动画" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV黑莓动画.png" group-title="数字频道",NewTV黑莓动画
 http://gslbserv.itv.cmvideo.cn/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3$IPv4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="NewTV精品记录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV精品记录.png" group-title="数字频道",NewTV精品记录
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$IPv6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="NewTV精品记录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV精品记录.png" group-title="数字频道",NewTV精品记录
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000019/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000019&livemode=1&stbId=3$IPv6『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="NewTv中国功夫" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTv中国功夫.png" group-title="数字频道",NewTv中国功夫
-http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$IPv6『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="NewTv金牌综艺" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTv金牌综艺.png" group-title="数字频道",NewTv金牌综艺
+#EXTINF:-1 tvg-id="1" tvg-name="NewTV精品纪录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV精品纪录.png" group-title="数字频道",NewTV精品纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$IPv4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="NewTV精品纪录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV精品纪录.png" group-title="数字频道",NewTV精品纪录
+http://gslbserv.itv.cmvideo.cn/1000000004000013730/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3$IPv4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="NewTV精品纪录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV精品纪录.png" group-title="数字频道",NewTV精品纪录
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3$IPv6『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="NewTV精品纪录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV精品纪录.png" group-title="数字频道",NewTV精品纪录
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$IPv6『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="NewTV精品纪录" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV精品纪录.png" group-title="数字频道",NewTV精品纪录
+http://[2409:8087:1a0b:df::4007]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$IPv6『线路5』
+#EXTINF:-1 tvg-id="1" tvg-name="NewTV中国功夫" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV中国功夫.png" group-title="数字频道",NewTV中国功夫
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$IPv6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="NewTV中国功夫" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV中国功夫.png" group-title="数字频道",NewTV中国功夫
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$IPv4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="NewTV中国功夫" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV中国功夫.png" group-title="数字频道",NewTV中国功夫
+http://gslbserv.itv.cmvideo.cn/2000000003000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3$IPv4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="NewTV中国功夫" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV中国功夫.png" group-title="数字频道",NewTV中国功夫
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3$IPv6『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="NewTV中国功夫" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV中国功夫.png" group-title="数字频道",NewTV中国功夫
+http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$IPv6『线路5』
+#EXTINF:-1 tvg-id="1" tvg-name="NewTV金牌综艺" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV金牌综艺.png" group-title="数字频道",NewTV金牌综艺
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$IPv6『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="NewTv超级综艺" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTv超级综艺.png" group-title="数字频道",NewTv超级综艺
+#EXTINF:-1 tvg-id="2" tvg-name="NewTV金牌综艺" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV金牌综艺.png" group-title="数字频道",NewTV金牌综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$IPv4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="NewTV金牌综艺" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV金牌综艺.png" group-title="数字频道",NewTV金牌综艺
+http://gslbserv.itv.cmvideo.cn/1000000004000026167/1.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3$IPv4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="NewTV金牌综艺" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV金牌综艺.png" group-title="数字频道",NewTV金牌综艺
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3$IPv6『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="NewTV超级综艺" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级综艺.png" group-title="数字频道",NewTV超级综艺
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$IPv6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="NewTV超级综艺" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级综艺.png" group-title="数字频道",NewTV超级综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$IPv4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="NewTV超级综艺" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级综艺.png" group-title="数字频道",NewTV超级综艺
+http://gslbserv.itv.cmvideo.cn/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3$IPv4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="NewTV超级综艺" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级综艺.png" group-title="数字频道",NewTV超级综艺
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000006000268002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3$IPv6『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="NewTV超级综艺" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级综艺.png" group-title="数字频道",NewTV超级综艺
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000029/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000029&livemode=1&stbId=3$IPv6『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="NewTV超级综艺" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级综艺.png" group-title="数字频道",NewTV超级综艺
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3$IPv6『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="NewTV超级综艺" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV超级综艺.png" group-title="数字频道",NewTV超级综艺
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3$IPv6『线路7』
 #EXTINF:-1 tvg-id="1" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
 http://[2409:8087:1a0b:df::4014]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$IPv6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
