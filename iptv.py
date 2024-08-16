@@ -68,6 +68,18 @@ class OrderedSet(t.MutableSet[T]):
     def __repr__(self):
         return f"<OrderedSet {self}>"
 
+class JSONEncoder(json.JSONEncoder):
+    def default(self, o):
+        if isinstance(o, set):
+            return list(o)
+        return super().default(o)
+
+def json_dump(obj, fp=None, **kwargs):
+    kwargs.setdefault('cls', JSONEncoder)
+    kwargs.setdefault('indent', 2)
+    kwargs.setdefault('ensure_ascii', False)
+    return json.dump(obj, fp, **kwargs) if fp else json.dumps(obj, **kwargs)
+
 
 def conv_bool(v):
     return v.lower() in ['1', 'true', 'yes', 'on']
@@ -79,7 +91,10 @@ def conv_list(v):
 def conv_dict(v):
     maps = {}
     for m in conv_list(v):
-        s = m.split(' ')
+        s = re.split(r'\ +', m)
+        if len(s) != 2:
+            logging.error(f'字典配置错误: {m} => {s}')
+            continue
         maps[s[0].strip()] = s[1].strip()
     return maps
 
@@ -233,48 +248,72 @@ class IPTV:
         return False
 
     def clean_channel_name(self, name):
+        def re_subs(s, *reps):
+            for rep in reps:
+                r = ''
+                c = 0
+                if len(rep) == 1:
+                    p = rep[0]
+                elif len(rep) == 2:
+                    p, r = rep
+                else:
+                    p, r, c = rep
+                s = re.sub(p, r, s, c)
+            return s
+        def any_startswith(s, *args):
+            return any([s.startswith(r) for r in args])
         # 繁 => 简
         jap = re.compile(r'[\u3040-\u309F\u30A0-\u30FF\uAC00-\uD7A3]')  # \uAC00-\uD7A3为匹配韩文的，其余为日文
         if not jap.search(name):
             name = zhconv.convert(name, 'zh-cn', {'「': '「', '」': '」'})
 
         if name.startswith('CCTV'):
-            name = name.replace('-', '', 1)
-            match = re.match(r'CCTV[0-9]+ ', name)
-            if match:
-                name = match[0].strip()
-            name = name.split(' ')[0]
-            match = re.match(r'CCTV[0-9\+K]+', name)
-            if match:
-                name = match[0].strip()
+            name = re_subs(name,
+                                (r'-[(HD)0]*', ),                           # CCTV-0 CCTV-HD
+                                (r'(CCTV[1-9][0-9]?[\+K]?).*', r'\1')
+            )
+            # BUG:
+            # CCTV4美洲 ... => CCTV4
         elif name.startswith('CETV'):
-            name = name.replace('-', '', 1)
-            match = re.match(r'CETV[0-9]+', name)
-            if match:
-                name = match[0].strip()
-        else:
-            for p in ['NewTV', 'CHC']:
-                if name.startswith(p):
-                    name = name.replace(f'{p} ', p)
-                    name = name.split(' ')[0]
+            name = re_subs(name,
+                                (r'[ -][(HD)0]*', ),
+                                (r'(CETV[1-4]).*', r'\1'),
+            )
+        elif any_startswith(name, 'NewTV', 'CHC', 'iHOT'):
+            for p in ['NewTV', 'CHC', 'iHOT']:
+                if not name.startswith(p):
+                    continue
+                name = re_subs(name,
+                                    (re.compile(f'{p} +'), p, 1),
+                                    (r'(.*) +.*', r'\1')
+                )
         return name
 
-    def add_channel_for_debug(self, name, uri):
+    def add_channel_for_debug(self, name, url, org_name, org_url):
         if name not in self.raw_channels:
-            self.raw_channels.setdefault(name, [])
+            self.raw_channels.setdefault(name, OrderedDict(source_names=set(), source_urls=set(), lines=[]))
 
-        for u in self.raw_channels[name]:
-            if u['uri'] == uri:
+        self.raw_channels[name]['source_names'].add(org_name)
+        self.raw_channels[name]['source_urls'].add(org_url)
+
+        for u in self.raw_channels[name]['lines']:
+            if u['uri'] == url:
                 u['count'] += u['count'] + 1
                 return
-        self.raw_channels[name].append({'uri': uri, 'count': 1, 'ipv6': is_ipv6(uri)})
+        self.raw_channels[name]['lines'].append({'uri': url, 'count': 1, 'ipv6': is_ipv6(url)})
+
+    def try_map_channel_name(self, name):
+        if name in self.channel_map.keys():
+            o_name = name
+            name = self.channel_map[name]
+            logging.debug(f'映射频道名: {o_name} => {name}')
+        return name
 
 
     def add_channel_uri(self, name, uri):
         uri = re.sub(r'\$.*$', '', uri)
 
-        if DEBUG:
-            self.add_channel_for_debug(name, uri)
+        name = self.try_map_channel_name(name)
 
         # 处理频道名
         org_name = name
@@ -282,23 +321,24 @@ class IPTV:
         if org_name != name:
             logging.debug(f'规范频道名: {org_name} => {name}')
 
-        if name in self.channel_map.keys():
-            p_name = name
-            name = self.channel_map[name]
-            logging.debug(f'映射频道名: {p_name} => {name}')
+        name = self.try_map_channel_name(name)
+
+        changed = False
+        p = urlparse(uri)
+        try:
+            if self.is_port_necessary(p.scheme, p.netloc):
+                changed = True
+                p = p._replace(netloc=p.netloc.rsplit(':', 1)[0])
+        except Exception as e:
+            logging.warning(f'频道线路地址出错: {name} {uri} {e}')
+            return
+
+        url = p.geturl() if changed else uri
+
+        self.add_channel_for_debug(name, url, org_name, uri)
 
         if name not in self.channels:
             return
-
-        # TODO: clean more
-        changed = False
-
-        p = urlparse(uri)
-        if self.is_port_necessary(p.scheme, p.netloc):
-            changed = True
-            p = p._replace(netloc=p.netloc.rsplit(':', 1)[0])
-
-        url = p.geturl() if changed else uri
 
         for u in self.channels[name]:
             if u['uri'] == url:
@@ -388,13 +428,14 @@ class IPTV:
                 for index, uri in self.enum_channel_uri(chl_name):
                     data[cate][chl_name].append(uri)
         with open(self.get_tmp('channel.json'), 'w') as fp:
-            json.dump(data, fp, indent=4, ensure_ascii=False)
+            json_dump(data, fp)
 
     def export_raw(self):
         for k in self.raw_channels:
-                self.raw_channels[k].sort(key=lambda i: i['count'], reverse=True)
+            self.raw_channels[k]['lines'].sort(key=lambda i: i['count'], reverse=True)
+        self.raw_channels
         with open(self.get_tmp('source.json'), 'w') as fp:
-            json.dump(self.raw_channels, fp, indent=4, ensure_ascii=False)
+            json_dump(self.raw_channels, fp)
 
     def export(self):
         self.sort_channels()
