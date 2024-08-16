@@ -17,18 +17,30 @@ CCTV14
 CCTV15
 CCTV16
 CCTV17
+CGTN
 CETV1
 CETV2
 CETV3
 CETV4
+CCTV第一剧场
+CCTV怀旧剧场
+CCTV风云剧场
+CCTV世界地理
+CCTV风云音乐
+CCTV国防军事
+CCTV女性时尚
+CCTV新科动漫
+CCTV梨园频道
+CCTV央视文化精品
+CCTV电视指南
+CCTV央视台球
+CCTV卫生与健康
+CCTV风云足球
+CCTV高尔夫网球
+CCTV中学生
+CCTV老故事
 CCTV4K
 CCTV8K
-CGTN
-CGTN俄语
-CGTN法语
-CGTN纪录
-CGTN西语
-CGTN阿语
 
 CATE: 卫视频道
 湖南卫视
@@ -86,7 +98,6 @@ CATE: 数字频道
 CHC动作电影
 CHC高清电影
 CHC家庭影院
-黑莓电影
 NewTV惊悚悬疑
 NewTV动作电影
 NewTv超级电影
@@ -95,10 +106,7 @@ NewTV精品记录
 NewTv中国功夫
 NewTv金牌综艺
 NewTv超级综艺
-求索记录
-求索动物
-求索科学
-求索生活
+黑莓电影
 优漫卡通
 嘉佳卡通
 金鹰卡通
