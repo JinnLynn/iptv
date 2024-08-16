@@ -123,7 +123,6 @@ class IPTV:
         except NoOptionError:
             return default
 
-
     def _get_path(self, dir_, file):
         if not os.path.isdir(dir_):
             os.makedirs(dir_, exist_ok=True)
@@ -283,12 +282,13 @@ class IPTV:
         if org_name != name:
             logging.debug(f'规范频道名: {org_name} => {name}')
 
-        if name not in self.channels:
-            if name not in self.channel_map.keys():
-                return
+        if name in self.channel_map.keys():
             p_name = name
             name = self.channel_map[name]
             logging.debug(f'映射频道名: {p_name} => {name}')
+
+        if name not in self.channels:
+            return
 
         # TODO: clean more
         changed = False
@@ -387,21 +387,22 @@ class IPTV:
                 data[cate].setdefault(chl_name, [])
                 for index, uri in self.enum_channel_uri(chl_name):
                     data[cate][chl_name].append(uri)
-        with open(self.get_tmp('channels.json'), 'w') as fp:
+        with open(self.get_tmp('channel.json'), 'w') as fp:
             json.dump(data, fp, indent=4, ensure_ascii=False)
+
+    def export_raw(self):
+        for k in self.raw_channels:
+                self.raw_channels[k].sort(key=lambda i: i['count'], reverse=True)
+        with open(self.get_tmp('source.json'), 'w') as fp:
+            json.dump(self.raw_channels, fp, indent=4, ensure_ascii=False)
 
     def export(self):
         self.sort_channels()
         self.export_m3u()
         self.export_txt()
+        self.export_json()
 
-        if DEBUG:
-            for k in self.raw_channels:
-                self.raw_channels[k].sort(key=lambda i: i['count'], reverse=True)
-            os.makedirs('tmp', exist_ok=True)
-            with open(self.get_tmp('channels_raw.json'), 'w') as fp:
-                json.dump(self.raw_channels, fp, indent=4, ensure_ascii=False)
-            self.export_json()
+        self.export_raw()
 
     def run(self):
         self.load_channels()
