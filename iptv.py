@@ -367,15 +367,19 @@ class IPTV:
         return any(b in url for b in self.blacklist)
         # return any(re.search(re.compile(b), url) for b in self.blacklist)
 
-    def enum_channel_uri(self, name, limit=None):
+    def enum_channel_uri(self, name, limit=None, only_ipv4=False):
         if name not in self.channels:
             return []
         if limit is None:
             limit = self.get_config('limit', int, default=DEF_LINE_LIMIT)
-        for index, chl in enumerate(self.channels[name]):
-            if isinstance(limit, int) and limit > 0 and index >= limit:
+        index = 0
+        for chl in self.channels[name]:
+            if only_ipv4 and chl['ipv6']:
+                continue
+            index = index + 1
+            if isinstance(limit, int) and limit > 0 and index > limit:
                 return
-            yield index + 1, chl
+            yield index, chl
 
     def export_info(self, fmt='m3u', fp=None):
         if self.get_config('disable_export_info', conv_bool, default=False):
@@ -397,8 +401,15 @@ class IPTV:
             fp.write(output)
         return output
 
-    def export_m3u(self):
-        dst = self.get_dist('live.m3u')
+    def get_export_filename(self, filename, only_ipv4=False):
+        parts = filename.rsplit('.', 1)
+        if only_ipv4:
+            parts[0] = f'{parts[0]}-ipv4'
+        return '.'.join(parts)
+
+    def export_m3u(self, only_ipv4=False):
+        fn = self.get_export_filename('live.m3u', only_ipv4=only_ipv4)
+        dst = self.get_dist(fn)
         epgs = self.get_config('epg', conv_list, lambda d: ','.join(f'"{e}"' for e in d), default=[])
         logo_url_prefix = self.get_config('logo_url_prefix', lambda s: s.rstrip('/'))
 
@@ -408,34 +419,37 @@ class IPTV:
 
             for cate, chls in self.channel_cates.items():
                 for chl_name in chls:
-                    for index, uri in self.enum_channel_uri(chl_name):
+                    for index, uri in self.enum_channel_uri(chl_name, only_ipv4=only_ipv4):
                         logo = self.cate_logos[cate] if cate in self.cate_logos else f'{chl_name}.png'
                         fp.write(f'#EXTINF:-1 tvg-id="{index}" tvg-name="{chl_name}" tvg-logo="{logo_url_prefix}/{logo}" group-title="{cate}",{chl_name}\n')
                         fp.write('{}${}『线路{}』\n'.format(uri['uri'], 'IPv6' if uri['ipv6'] else 'IPv4', index))
             self.export_info(fmt='m3u', fp=fp)
         logging.info(f'导出M3U: {dst}')
 
-    def export_txt(self):
-        dst = self.get_dist('live.txt')
+    def export_txt(self, only_ipv4=False):
+        fn = self.get_export_filename('live.txt', only_ipv4=only_ipv4)
+        dst = self.get_dist(fn)
         with open(dst, 'w') as fp:
             for cate, chls in self.channel_cates.items():
                 fp.write(f'{cate},#genre#\n')
                 for chl_name in chls:
-                    for index, uri in self.enum_channel_uri(chl_name):
+                    for index, uri in self.enum_channel_uri(chl_name, only_ipv4=only_ipv4):
                         fp.write('{},{}${}『线路{}』\n'.format(chl_name, uri['uri'], 'IPv6' if uri['ipv6'] else 'IPv4', index))
                 fp.write('\n\n')
             self.export_info(fmt='txt', fp=fp)
         logging.info(f'导出TXT: {dst}')
 
-    def export_json(self):
+    def export_json(self, only_ipv4=False):
+        fn = self.get_export_filename('channel.json', only_ipv4=only_ipv4)
+        dst = self.get_tmp(fn)
         data = OrderedDict()
         for cate, chls in self.channel_cates.items():
             data.setdefault(cate, OrderedDict())
             for chl_name in chls:
                 data[cate].setdefault(chl_name, [])
-                for index, uri in self.enum_channel_uri(chl_name):
+                for index, uri in self.enum_channel_uri(chl_name, only_ipv4=only_ipv4):
                     data[cate][chl_name].append(uri)
-        with open(self.get_tmp('channel.json'), 'w') as fp:
+        with open(dst, 'w') as fp:
             json_dump(data, fp)
 
     def export_raw(self):
@@ -447,9 +461,15 @@ class IPTV:
 
     def export(self):
         self.sort_channels()
+
         self.export_m3u()
         self.export_txt()
         self.export_json()
+
+        if self.get_config('export_ipv4_version', conv_bool, default=False):
+            self.export_m3u(only_ipv4=True)
+            self.export_txt(only_ipv4=True)
+            self.export_json(only_ipv4=True)
 
         self.export_raw()
 
