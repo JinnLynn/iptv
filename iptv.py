@@ -73,7 +73,7 @@ def conv_bool(v):
     return v.lower() in ['1', 'true', 'yes', 'on']
 
 def conv_list(v):
-    v = v.strip().split('\n')
+    v = v.strip().splitlines()
     return [s.strip() for s in v if s.strip()]
 
 def conv_dict(v):
@@ -82,6 +82,15 @@ def conv_dict(v):
         s = m.split(' ')
         maps[s[0].strip()] = s[1].strip()
     return maps
+
+def clean_inline_comment(v):
+    def _remove_inline_comment(l):
+        try:
+            l = re.split(r' +#', l)[0]
+        except Exception as e:
+            logging.warning(f'行内注释清理出错: {l} {e}')
+        return l
+    return '\n'.join([_remove_inline_comment(s) for s in v.strip().splitlines()])
 
 def is_ipv6(url):
     p = urlparse(url)
@@ -105,6 +114,7 @@ class IPTV:
 
         try:
             value = self.raw_config.get('config', key)
+            value = clean_inline_comment(value)
             if convs:
                 for conv in convs:
                     value = conv(value)

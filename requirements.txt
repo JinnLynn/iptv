@@ -1,2 +1,2 @@
 requests
-zhconv
+zhconv==1.4.3
