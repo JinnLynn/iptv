@@ -9,20 +9,18 @@ import typing as t
 import json
 from datetime import datetime
 
-from pprint import pprint
-
 import requests
 import zhconv
 
-DEBUG = os.environ.get('DEBUG', None) is not None
+DEBUG = os.environ.get('DEBUG') is not None
 IPTV_CONFIG = os.environ.get('IPTV_CONFIG') or 'config.ini'
 IPTV_CHANNEL = os.environ.get('IPTV_CHANNEL') or 'channel.txt'
 IPTV_DIST = os.environ.get('IPTV_DIST') or 'dist'
 IPTV_TMP = os.environ.get('IPTV_TMP') or 'tmp'
 
-
 DEF_LINE_LIMIT = 10
-DEF_REQUEST_TIMEOUT = 10
+DEF_REQUEST_TIMEOUT = 100
+DEF_USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
 DEF_INFO_LINE = "https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"
 
 logging.basicConfig(
@@ -80,7 +78,6 @@ def json_dump(obj, fp=None, **kwargs):
     kwargs.setdefault('ensure_ascii', False)
     return json.dump(obj, fp, **kwargs) if fp else json.dumps(obj, **kwargs)
 
-
 def conv_bool(v):
     return v.lower() in ['1', 'true', 'yes', 'on']
 
@@ -111,11 +108,11 @@ def is_ipv6(url):
     p = urlparse(url)
     return re.match(r'\[[0-9a-fA-F:]+\]', p.netloc) is not None
 
-
 class IPTV:
     def __init__(self, *args, **kwargs):
         self._cate_logos = None
         self._channel_map = None
+        self._blacklist = None
 
         self.raw_config = None
         self.raw_channels = {}
@@ -151,17 +148,21 @@ class IPTV:
 
     @property
     def cate_logos(self):
-        if self._cate_logos is not None:
-            return self._cate_logos
-        self._cate_logos = self.get_config('logo_cate', conv_dict, default={})
+        if self._cate_logos is None:
+            self._cate_logos = self.get_config('logo_cate', conv_dict, default={})
         return self._cate_logos
 
     @property
     def channel_map(self):
-        if self._channel_map is not None:
-            return self._channel_map
-        self._channel_map = self.get_config('channel_map', conv_dict, default={})
+        if self._channel_map is None:
+            self._channel_map = self.get_config('channel_map', conv_dict, default={})
         return self._channel_map
+
+    @property
+    def blacklist(self):
+        if self._blacklist is None:
+            self._blacklist = self.get_config('blacklist', conv_list, default=[])
+        return self._blacklist
 
     def load_channels(self):
         current = ''
@@ -184,7 +185,7 @@ class IPTV:
         failed_sources = []
         for url in sources:
             try:
-                headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'}
+                headers = {'User-Agent': DEF_USER_AGENT}
                 res = requests.get(url, timeout=DEF_REQUEST_TIMEOUT, headers=headers)
                 res.raise_for_status()
                 lines = res.content.decode().split('\n')
@@ -309,7 +310,6 @@ class IPTV:
             logging.debug(f'映射频道名: {o_name} => {name}')
         return name
 
-
     def add_channel_uri(self, name, uri):
         uri = re.sub(r'\$.*$', '', uri)
 
@@ -330,7 +330,7 @@ class IPTV:
                 changed = True
                 p = p._replace(netloc=p.netloc.rsplit(':', 1)[0])
         except Exception as e:
-            logging.warning(f'频道线路地址出错: {name} {uri} {e}')
+            logging.debug(f'频道线路地址出错: {name} {uri} {e}')
             return
 
         url = p.geturl() if changed else uri
@@ -338,6 +338,10 @@ class IPTV:
         self.add_channel_for_debug(name, url, org_name, uri)
 
         if name not in self.channels:
+            return
+
+        if self.is_on_blacklist(url):
+            logging.debug(f'黑名单忽略: {name} {uri}')
             return
 
         for u in self.channels[name]:
@@ -358,6 +362,10 @@ class IPTV:
         logging.info(f'获取的所需: 频道: {len(self.channels)} 线路: {line_num}')
         # TODO: 输出没有获取到任何线路的频道
 
+    def is_on_blacklist(self, url):
+        # TODO: 支持regex
+        return any(b in url for b in self.blacklist)
+        # return any(re.search(re.compile(b), url) for b in self.blacklist)
 
     def enum_channel_uri(self, name, limit=None):
         if name not in self.channels:
