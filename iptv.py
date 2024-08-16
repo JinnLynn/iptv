@@ -422,7 +422,7 @@ class IPTV:
                     for index, uri in self.enum_channel_uri(chl_name, only_ipv4=only_ipv4):
                         logo = self.cate_logos[cate] if cate in self.cate_logos else f'{chl_name}.png'
                         fp.write(f'#EXTINF:-1 tvg-id="{index}" tvg-name="{chl_name}" tvg-logo="{logo_url_prefix}/{logo}" group-title="{cate}",{chl_name}\n')
-                        fp.write('{}${}『线路{}』\n'.format(uri['uri'], 'IPv6' if uri['ipv6'] else 'IPv4', index))
+                        fp.write('{}\n'.format(uri['uri']))
             self.export_info(fmt='m3u', fp=fp)
         logging.info(f'导出M3U: {dst}')
 
@@ -434,7 +434,7 @@ class IPTV:
                 fp.write(f'{cate},#genre#\n')
                 for chl_name in chls:
                     for index, uri in self.enum_channel_uri(chl_name, only_ipv4=only_ipv4):
-                        fp.write('{},{}${}『线路{}』\n'.format(chl_name, uri['uri'], 'IPv6' if uri['ipv6'] else 'IPv4', index))
+                        fp.write('{},{}\n'.format(chl_name, uri['uri']))
                 fp.write('\n\n')
             self.export_info(fmt='txt', fp=fp)
         logging.info(f'导出TXT: {dst}')
