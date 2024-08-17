@@ -21,7 +21,8 @@ IPTV_TMP = os.environ.get('IPTV_TMP') or 'tmp'
 DEF_LINE_LIMIT = 10
 DEF_REQUEST_TIMEOUT = 100
 DEF_USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
-DEF_INFO_LINE = "https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"
+DEF_INFO_LINE = 'https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001'
+DEF_EPG = 'https://raw.githubusercontent.com/JinnLynn/iptv/dist/epg.xml'
 
 logging.basicConfig(
     level=logging.DEBUG if DEBUG else logging.INFO,
@@ -130,10 +131,13 @@ class IPTV:
             if convs:
                 for conv in convs:
                     value = conv(value)
-                return value
-            return default
         except NoOptionError:
+            logging.debug(f'配置未设置, 返回默认值: {key} : {default}')
             return default
+        except Exception as e:
+            logging.error(f'获取配置出错: {key} {e}')
+            return default
+        return value
 
     def _get_path(self, dir_, file):
         if not os.path.isdir(dir_):
@@ -410,13 +414,10 @@ class IPTV:
     def export_m3u(self, only_ipv4=False):
         fn = self.get_export_filename('live.m3u', only_ipv4=only_ipv4)
         dst = self.get_dist(fn)
-        epgs = self.get_config('epg', conv_list, lambda d: ','.join(f'"{e}"' for e in d), default=[])
         logo_url_prefix = self.get_config('logo_url_prefix', lambda s: s.rstrip('/'))
 
         with open(dst, 'w') as fp:
-            epg_urls = f' x-tvg-url={epgs}' if epgs else ''
-            fp.write(f'#EXTM3U{epg_urls}\n')
-
+            fp.write('#EXTM3U x-tvg-url="{}"\n'.format(self.get_config('epg', default=DEF_EPG)))
             for cate, chls in self.channel_cates.items():
                 for chl_name in chls:
                     for index, uri in self.enum_channel_uri(chl_name, only_ipv4=only_ipv4):
