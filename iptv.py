@@ -266,7 +266,11 @@ class IPTV:
                 s = re.sub(p, r, s, c)
             return s
         def any_startswith(s, *args):
-            return any([s.startswith(r) for r in args])
+            return any([re.search(fr'^{r}', s, re.IGNORECASE) for r in args])
+
+        def any_in(s, *args):
+            return any(a in s for a in args)
+
         # 繁 => 简
         jap = re.compile(r'[\u3040-\u309F\u30A0-\u30FF\uAC00-\uD7A3]')  # \uAC00-\uD7A3为匹配韩文的，其余为日文
         if not jap.search(name):
@@ -277,7 +281,7 @@ class IPTV:
                                 (r'-[(HD)0]*', ),                           # CCTV-0 CCTV-HD
                                 (r'(CCTV[1-9][0-9]?[\+K]?).*', r'\1')
             )
-            # BUG:
+            # FIX:
             # CCTV4美洲 ... => CCTV4
         elif name.startswith('CETV'):
             name = re_subs(name,
@@ -286,12 +290,16 @@ class IPTV:
             )
         elif any_startswith(name, 'NewTV', 'CHC', 'iHOT'):
             for p in ['NewTV', 'CHC', 'iHOT']:
+                name = re.sub(fr'^{p}', p, name, 1, re.IGNORECASE)
                 if not name.startswith(p):
                     continue
                 name = re_subs(name,
                                     (re.compile(f'{p} +'), p, 1),
                                     (r'(.*) +.*', r'\1')
                 )
+        elif re.match(r'^TVB[^s]', name, re.IGNORECASE):
+            print(name)
+            name = name.replace(' ', '')
         return name
 
     def add_channel_for_debug(self, name, url, org_name, org_url):
