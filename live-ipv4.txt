@@ -185,10 +185,10 @@ CCTV4K,http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/780/2024081303.m3u8
 CCTV4K,http://148.135.93.213:81/live.php?id=CCTV4K
 CCTV4K,rtp://239.3.1.245:2000
 CCTV4K,http://mtw.so/5VbDUV
+CCTV4K,https://pi.0472.org/livetv/cctv4k.m3u8
 CCTV4K,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024081303.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081303.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4K,http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081302.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV4K,http://my4.zhoujie218.top:50000/ysp/cctv4k
 CCTV8K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
 CCTV8K,http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/071/2020603421.m3u8
 CCTV8K,http://117.72.68.25:9930/ys4k.php?id=8k

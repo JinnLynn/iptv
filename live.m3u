@@ -376,9 +376,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/3/224/32212284
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV4K.png" group-title="央视频道",CCTV4K
 http://mtw.so/5VbDUV
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV4K.png" group-title="央视频道",CCTV4K
-http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024081303.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081303.m3u8?key=txiptv&playlive=1&authid=0
+https://pi.0472.org/livetv/cctv4k.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV4K.png" group-title="央视频道",CCTV4K
-http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081302.m3u8?key=txiptv&playlive=1&authid=0
+http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024081303.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081303.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV8K.png" group-title="央视频道",CCTV8K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV8K.png" group-title="央视频道",CCTV8K
