@@ -2,29 +2,41 @@ name: epg
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *"
-env:
-  EPG_URL: https://live.fanmingming.com/e.xml
+    - cron: "0 2,10 * * *"
+  push:
+    branches:
+      - master
+      - dev
 jobs:
-  fetch:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       - uses: actions/checkout@v4
         with:
+          ref: ${{ github.ref_name }}
+          path: src
+      - name: Checkout dist
+        uses: actions/checkout@v4
+        with:
           ref: dist
-      - name: fetch
-        id: fetch
+          path: dist
+      - name: gen
+        id: gen
         run: |
-          set -e
-          curl -Ls --compressed -o epg.xml https://live.fanmingming.com/e.xml
-          [ -n "$(git diff --stat --name-only epg.xml)" ] && \
-            gzip -c epg.xml > epg.xml.gz
-          echo "fetch_time=$(date '+%Y-%m-%d %H:%M:%S %z')" >>$GITHUB_OUTPUT
+          cd src && \
+          pip install -r requirements.txt && \
+          DEBUG=1 python epg.py
+          cp dist/* ../dist/
+          echo "gen_time=$(date '+%Y-%m-%d %H:%M:%S %z')" >>$GITHUB_OUTPUT
       - name: commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: update ${{ steps.fetch.outputs.fetch_time }}
+          repository: ./dist
+          commit_message: update ${{ steps.gen.outputs.gen_time }}
           add_options: '-A'
           push_options: '--force'
