@@ -4,16 +4,26 @@
 
 ### 使用
 
-#### 直接调用
+资源每天自动生成，存放于[dist](https://github.com/JinnLynn/iptv/tree/dist)分支
 
-每天自动生成
+#### 直接调用
 
 ```txt
 https://raw.githubusercontent.com/JinnLynn/iptv/dist/live.m3u
 ```
 
 ```txt
-https://raw.githubusercontent.com/JinnLynn/iptv/dist/live.m3u
+https://raw.githubusercontent.com/JinnLynn/iptv/dist/live.txt
+```
+
+仅包含IPv4地址:
+
+```txt
+https://raw.githubusercontent.com/JinnLynn/iptv/dist/live-ipv4.m3u
+```
+
+```txt
+https://raw.githubusercontent.com/JinnLynn/iptv/dist/live-ipv4.txt
 ```
 
 #### 手动生成
