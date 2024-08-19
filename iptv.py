@@ -17,8 +17,8 @@ DEBUG = os.environ.get('DEBUG') is not None
 IPTV_CONFIG = os.environ.get('IPTV_CONFIG') or 'config.ini'
 IPTV_CHANNEL = os.environ.get('IPTV_CHANNEL') or 'channel.txt'
 IPTV_DIST = os.environ.get('IPTV_DIST') or 'dist'
-EXPORT_RAW = os.environ.get('EXPORT_RAW') or DEBUG
-EXPORT_JSON = os.environ.get('EXPORT_JSON') or DEBUG
+EXPORT_RAW = ConfigParser.BOOLEAN_STATES[os.environ.get('EXPORT_RAW', default=str(DEBUG)).lower()]
+EXPORT_JSON = ConfigParser.BOOLEAN_STATES[os.environ.get('EXPORT_JSON', default=str(DEBUG)).lower()]
 
 DEF_LINE_LIMIT = 10
 DEF_REQUEST_TIMEOUT = 100
@@ -83,7 +83,9 @@ def json_dump(obj, fp=None, **kwargs):
     return json.dump(obj, fp, **kwargs) if fp else json.dumps(obj, **kwargs)
 
 def conv_bool(v):
-    return v.lower() in ['1', 'true', 'yes', 'on']
+    if isinstance(v, bool):
+        return v
+    return ConfigParser.BOOLEAN_STATES[v.lower()]
 
 def conv_list(v):
     v = v.strip().splitlines()
