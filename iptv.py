@@ -16,13 +16,15 @@ DEBUG = os.environ.get('DEBUG') is not None
 IPTV_CONFIG = os.environ.get('IPTV_CONFIG') or 'config.ini'
 IPTV_CHANNEL = os.environ.get('IPTV_CHANNEL') or 'channel.txt'
 IPTV_DIST = os.environ.get('IPTV_DIST') or 'dist'
-IPTV_TMP = os.environ.get('IPTV_TMP') or 'tmp'
+EXPORT_RAW = os.environ.get('EXPORT_RAW') or DEBUG
+EXPORT_JSON = os.environ.get('EXPORT_JSON') or DEBUG
 
 DEF_LINE_LIMIT = 10
 DEF_REQUEST_TIMEOUT = 100
 DEF_USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
 DEF_INFO_LINE = 'https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001'
 DEF_EPG = 'https://raw.githubusercontent.com/JinnLynn/iptv/dist/epg.xml'
+DEF_IPV4_FILENAME_SUFFIX = '-ipv4'
 
 logging.basicConfig(
     level=logging.DEBUG if DEBUG else logging.INFO,
@@ -139,16 +141,16 @@ class IPTV:
             return default
         return value
 
-    def _get_path(self, dir_, file):
+    def _get_path(self, dir_, filename):
         if not os.path.isdir(dir_):
             os.makedirs(dir_, exist_ok=True)
-        return os.path.join(dir_, file)
+        return os.path.join(dir_, filename)
 
-    def get_dist(self, file):
-        return self._get_path(IPTV_DIST, file)
-
-    def get_tmp(self, file):
-        return self._get_path(IPTV_TMP, file)
+    def get_dist(self, filename, ipv4_suffix=False):
+        parts = filename.rsplit('.', 1)
+        if ipv4_suffix:
+            parts[0] = f'{parts[0]}{DEF_IPV4_FILENAME_SUFFIX}'
+        return self._get_path(IPTV_DIST, '.'.join(parts))
 
     @property
     def cate_logos(self):
@@ -420,8 +422,7 @@ class IPTV:
         return '.'.join(parts)
 
     def export_m3u(self, only_ipv4=False):
-        fn = self.get_export_filename('live.m3u', only_ipv4=only_ipv4)
-        dst = self.get_dist(fn)
+        dst = self.get_dist('live.m3u', ipv4_suffix=only_ipv4)
         logo_url_prefix = self.get_config('logo_url_prefix', lambda s: s.rstrip('/'))
 
         with open(dst, 'w') as fp:
@@ -436,8 +437,7 @@ class IPTV:
         logging.info(f'导出M3U: {dst}')
 
     def export_txt(self, only_ipv4=False):
-        fn = self.get_export_filename('live.txt', only_ipv4=only_ipv4)
-        dst = self.get_dist(fn)
+        dst = self.get_dist('live.txt', ipv4_suffix=only_ipv4)
         with open(dst, 'w') as fp:
             for cate, chls in self.channel_cates.items():
                 fp.write(f'{cate},#genre#\n')
@@ -449,8 +449,7 @@ class IPTV:
         logging.info(f'导出TXT: {dst}')
 
     def export_json(self, only_ipv4=False):
-        fn = self.get_export_filename('channel.json', only_ipv4=only_ipv4)
-        dst = self.get_tmp(fn)
+        dst = self.get_dist('channel.json', ipv4_suffix=only_ipv4)
         data = OrderedDict()
         for cate, chls in self.channel_cates.items():
             data.setdefault(cate, OrderedDict())
@@ -460,27 +459,33 @@ class IPTV:
                     data[cate][chl_name].append(uri)
         with open(dst, 'w') as fp:
             json_dump(data, fp)
+        logging.info(f'导出JSON: {dst}')
 
     def export_raw(self):
+        dst = self.get_dist('source.json')
         for k in self.raw_channels:
             self.raw_channels[k]['lines'].sort(key=lambda i: i['count'], reverse=True)
-        self.raw_channels
-        with open(self.get_tmp('source.json'), 'w') as fp:
+        with open(dst, 'w') as fp:
             json_dump(self.raw_channels, fp)
+        logging.info(f'导出RAW: {dst}')
 
     def export(self):
         self.sort_channels()
 
         self.export_m3u()
         self.export_txt()
-        self.export_json()
+
+        if EXPORT_JSON:
+            self.export_json()
 
         if self.get_config('export_ipv4_version', conv_bool, default=False):
             self.export_m3u(only_ipv4=True)
             self.export_txt(only_ipv4=True)
-            self.export_json(only_ipv4=True)
+            if EXPORT_JSON:
+                self.export_json(only_ipv4=True)
 
-        self.export_raw()
+        if EXPORT_RAW:
+            self.export_raw()
 
     def run(self):
         self.load_channels()
