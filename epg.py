@@ -83,9 +83,17 @@ class EPG:
                 if ele.get(k):
                     return root.get(k)
 
+        def _normalize(n, u):
+            # 51zmt name url 信息写反
+            if 'epg.51zmt.top' in u or 'epg.51zmt.top' in n:
+                n, u = u, n
+            return n, u
+
         root = self.epg_doc.getroot()
         info_name = _existing_value(root, _info_name_keys)
         info_url = _existing_value(root, _info_url_keys)
+
+        info_name, info_url = _normalize(info_name, info_url)
 
         root.attrib.clear()
         now = datetime.datetime.now(datetime.UTC)
