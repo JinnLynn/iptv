@@ -8,6 +8,7 @@ import itertools
 import typing as t
 import json
 from datetime import datetime
+from itertools import islice
 
 import requests
 import zhconv
@@ -21,7 +22,7 @@ EXPORT_JSON = os.environ.get('EXPORT_JSON') or DEBUG
 
 DEF_LINE_LIMIT = 10
 DEF_REQUEST_TIMEOUT = 100
-DEF_USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
+DEF_USER_AGENT = 'okhttp/4.12.0-iptv'
 DEF_INFO_LINE = 'https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001'
 DEF_EPG = 'https://raw.githubusercontent.com/JinnLynn/iptv/dist/epg.xml'
 DEF_IPV4_FILENAME_SUFFIX = '-ipv4'
@@ -134,7 +135,7 @@ class IPTV:
                 for conv in convs:
                     value = conv(value)
         except NoOptionError:
-            logging.debug(f'配置未设置, 返回默认值: {key} : {default}')
+            # logging.debug(f'配置未设置, 返回默认值: {key} : {default}')
             return default
         except Exception as e:
             logging.error(f'获取配置出错: {key} {e}')
@@ -185,31 +186,35 @@ class IPTV:
                         self.channel_cates[current].add(line)
                         self.channels.setdefault(line, [])
 
+    def fetch(self, url):
+        headers = {'User-Agent': DEF_USER_AGENT}
+        res = requests.get(url, timeout=DEF_REQUEST_TIMEOUT, headers=headers)
+        res.raise_for_status()
+        return res
+
     def fetch_sources(self):
         sources = self.get_config('source', conv_list, default=[])
         success_count = 0
         failed_sources = []
         for url in sources:
             try:
-                headers = {'User-Agent': DEF_USER_AGENT}
-                res = requests.get(url, timeout=DEF_REQUEST_TIMEOUT, headers=headers)
-                res.raise_for_status()
-                lines = res.content.decode().split('\n')
+                res = self.fetch(url)
             except Exception as e:
                 logging.warning(f'获取失败: {url} {e}')
                 failed_sources.append(url)
                 continue
-            is_m3u = any('#EXTINF' in line for line in lines[:15])
+            is_m3u = any('#EXTINF' in l.decode() for l in islice(res.iter_lines(), 10))
             logging.info(f'获取成功: {"M3U" if is_m3u else "TXT"} {url}')
             success_count = success_count + 1
 
             cur_cate = None
 
-            if is_m3u:
-                for line in lines:
-                    line = line.strip()
-                    if not line:
-                        continue
+            for line in res.iter_lines():
+                line = line.decode().strip()
+                if not line:
+                    continue
+
+                if is_m3u:
                     if line.startswith("#EXTINF"):
                         match = re.search(r'group-title="(.*?)",(.*)', line)
                         if match:
@@ -218,9 +223,7 @@ class IPTV:
                     elif not line.startswith("#"):
                         channel_url = line.strip()
                         self.add_channel_uri(chl_name, channel_url)
-            else:
-                for line in lines:
-                    line = line.strip()
+                else:
                     if "#genre#" in line:
                         cur_cate = line.split(",")[0].strip()
                     elif cur_cate:
@@ -229,8 +232,33 @@ class IPTV:
                             chl_name = match.group(1).strip()
                             channel_url = match.group(2).strip()
                             self.add_channel_uri(chl_name, channel_url)
-                        # FIX: 地址中会出现#分割的多个地址
-                        # elif line:
+
+            # if is_m3u:
+            #     for line in lines:
+            #         line = line.strip()
+            #         if not line:
+            #             continue
+            #         if line.startswith("#EXTINF"):
+            #             match = re.search(r'group-title="(.*?)",(.*)', line)
+            #             if match:
+            #                 cur_cate = match.group(1).strip()
+            #                 chl_name = match.group(2).strip()
+            #         elif not line.startswith("#"):
+            #             channel_url = line.strip()
+            #             self.add_channel_uri(chl_name, channel_url)
+            # else:
+            #     for line in lines:
+            #         line = line.strip()
+            #         if "#genre#" in line:
+            #             cur_cate = line.split(",")[0].strip()
+            #         elif cur_cate:
+            #             match = re.match(r"^(.*?),(.*?)$", line)
+            #             if match:
+            #                 chl_name = match.group(1).strip()
+            #                 channel_url = match.group(2).strip()
+            #                 self.add_channel_uri(chl_name, channel_url)
+            #             # FIX: 地址中会出现#分割的多个地址
+            #             # elif line:
         logging.info(f'源读取完毕: 成功: {success_count} 失败: {len(failed_sources)}')
         if failed_sources:
             logging.warning(f'获取失败的源: {failed_sources}')
@@ -300,7 +328,6 @@ class IPTV:
                                     (r'(.*) +.*', r'\1')
                 )
         elif re.match(r'^TVB[^s]', name, re.IGNORECASE):
-            print(name)
             name = name.replace(' ', '')
         return name
 
