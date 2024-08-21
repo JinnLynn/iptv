@@ -146,10 +146,13 @@ class IPTV:
             return default
         return value
 
-    def _get_path(self, dir_, filename):
-        if not os.path.isdir(dir_):
-            os.makedirs(dir_, exist_ok=True)
-        return os.path.join(dir_, filename)
+    def _get_path(self, dist, filename):
+        if not os.path.isdir(dist):
+            os.makedirs(dist, exist_ok=True)
+        abspath = os.path.join(dist, filename)
+        if not os.path.isdir(os.path.dirname(abspath)):
+            os.makedirs(os.path.dirname(abspath), exist_ok=True)
+        return abspath
 
     def get_dist(self, filename, ipv4_suffix=False):
         parts = filename.rsplit('.', 1)
@@ -242,33 +245,6 @@ class IPTV:
                             chl_name = match.group(1).strip()
                             channel_url = match.group(2).strip()
                             self.add_channel_uri(chl_name, channel_url)
-
-            # if is_m3u:
-            #     for line in lines:
-            #         line = line.strip()
-            #         if not line:
-            #             continue
-            #         if line.startswith("#EXTINF"):
-            #             match = re.search(r'group-title="(.*?)",(.*)', line)
-            #             if match:
-            #                 cur_cate = match.group(1).strip()
-            #                 chl_name = match.group(2).strip()
-            #         elif not line.startswith("#"):
-            #             channel_url = line.strip()
-            #             self.add_channel_uri(chl_name, channel_url)
-            # else:
-            #     for line in lines:
-            #         line = line.strip()
-            #         if "#genre#" in line:
-            #             cur_cate = line.split(",")[0].strip()
-            #         elif cur_cate:
-            #             match = re.match(r"^(.*?),(.*?)$", line)
-            #             if match:
-            #                 chl_name = match.group(1).strip()
-            #                 channel_url = match.group(2).strip()
-            #                 self.add_channel_uri(chl_name, channel_url)
-            #             # FIX: 地址中会出现#分割的多个地址
-            #             # elif line:
         logging.info(f'源读取完毕: 成功: {success_count} 失败: {len(failed_sources)}')
         if failed_sources:
             logging.warning(f'获取失败的源: {failed_sources}')
@@ -492,7 +468,7 @@ class IPTV:
         logging.info(f'导出TXT: {dst}')
 
     def export_json(self, only_ipv4=False):
-        dst = self.get_dist('channel.json', ipv4_suffix=only_ipv4)
+        dst = self.get_dist('raw/channel.json', ipv4_suffix=only_ipv4)
         data = OrderedDict()
         for cate, chls in self.channel_cates.items():
             data.setdefault(cate, OrderedDict())
@@ -505,7 +481,7 @@ class IPTV:
         logging.info(f'导出JSON: {dst}')
 
     def export_raw(self):
-        dst = self.get_dist('source.json')
+        dst = self.get_dist('raw/source.json')
         for k in self.raw_channels:
             self.raw_channels[k]['lines'].sort(key=lambda i: i['count'], reverse=True)
         with open(dst, 'w') as fp:
