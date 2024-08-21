@@ -26,6 +26,7 @@ DEF_USER_AGENT = 'okhttp/4.12.0-iptv'
 DEF_INFO_LINE = 'https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001'
 DEF_EPG = 'https://raw.githubusercontent.com/JinnLynn/iptv/dist/epg.xml'
 DEF_IPV4_FILENAME_SUFFIX = '-ipv4'
+DEF_WHITELIST_PRIORITY = 10
 
 logging.basicConfig(
     level=logging.DEBUG if DEBUG else logging.INFO,
@@ -119,6 +120,7 @@ class IPTV:
         self._cate_logos = None
         self._channel_map = None
         self._blacklist = None
+        self._whitelist = None
 
         self.raw_config = None
         self.raw_channels = {}
@@ -172,6 +174,12 @@ class IPTV:
         if self._blacklist is None:
             self._blacklist = self.get_config('blacklist', conv_list, default=[])
         return self._blacklist
+
+    @property
+    def whitelist(self):
+        if self._whitelist is None:
+            self._whitelist = self.get_config('whitelist', conv_list, default=[])
+        return self._whitelist
 
     def load_channels(self):
         current = ''
@@ -387,18 +395,20 @@ class IPTV:
             logging.debug(f'黑名单忽略: {name} {uri}')
             return
 
+        priority = DEF_WHITELIST_PRIORITY if self.is_on_whitelist(url) else 0
         for u in self.channels[name]:
             if u['uri'] == url:
                 u['count'] = u['count'] + 1
+                u['priority'] = u['count'] + priority
                 return
-        self.channels[name].append({'uri': url, 'count': 1, 'ipv6': is_ipv6(url)})
+        self.channels[name].append({'uri': url, 'priority': priority + 1, 'count': 1, 'ipv6': is_ipv6(url)})
 
         # if changed:
         #     logging.debug(f'URL cleaned: {uri} => \n                                              {p.geturl()}')
 
     def sort_channels(self):
         for k in self.channels:
-            self.channels[k].sort(key=lambda i: i['count'], reverse=True)
+            self.channels[k].sort(key=lambda i: i['priority'], reverse=True)
 
     def stat_fetched_channels(self):
         line_num = sum([len(c) for c in self.channels])
@@ -409,6 +419,10 @@ class IPTV:
         # TODO: 支持regex
         return any(b in url for b in self.blacklist)
         # return any(re.search(re.compile(b), url) for b in self.blacklist)
+
+    def is_on_whitelist(self, url):
+        # TODO: 支持regex
+        return any(b in url for b in self.whitelist)
 
     def enum_channel_uri(self, name, limit=None, only_ipv4=False):
         if name not in self.channels:
