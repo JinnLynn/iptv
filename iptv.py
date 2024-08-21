@@ -130,7 +130,7 @@ class IPTV:
     def get_config(self, key, *convs, default=None):
         if not self.raw_config:
             self.raw_config = ConfigParser()
-            self.raw_config.read(IPTV_CONFIG)
+            self.raw_config.read([c.strip() for c in IPTV_CONFIG.split(',')])
 
         try:
             value = self.raw_config.get('config', key)
