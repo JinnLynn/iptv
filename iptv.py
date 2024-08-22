@@ -185,19 +185,31 @@ class IPTV:
         return self._whitelist
 
     def load_channels(self):
-        current = ''
-        with open(IPTV_CHANNEL) as fp:
-            for line in fp.readlines():
-                line = line.strip()
-                if not line or line.startswith('#'):
-                    continue
-                if line.startswith('CATE:'):
-                    current = line[5:].strip()
-                    self.channel_cates.setdefault(current, OrderedSet())
-                else:
-                    if current:
-                        self.channel_cates[current].add(line)
-                        self.channels.setdefault(line, [])
+        for f in IPTV_CHANNEL.split(','):
+            current = ''
+            with open(f) as fp:
+                for line in fp.readlines():
+                    line = line.strip()
+                    if not line or line.startswith('#'):
+                        continue
+                    if line.startswith('CATE:'):
+                        current = line[5:].strip()
+                        self.channel_cates.setdefault(current, OrderedSet())
+                    else:
+                        if not current:
+                            logging.warning(f'忽略没有指定分类的频道: {line}')
+                            continue
+
+                        if line.startswith('-'):
+                            line = line[1:].strip()
+                            if line in self.channel_cates[current]:
+                                self.channel_cates[current].remove(line)
+                        else:
+                            self.channel_cates[current].add(line)
+
+        for v in self.channel_cates.values():
+            for c in v:
+                self.channels.setdefault(c, [])
 
     def fetch(self, url):
         headers = {'User-Agent': DEF_USER_AGENT}
