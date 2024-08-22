@@ -369,8 +369,8 @@ CCTV高尔夫网球,http://111.162.164.172:8686/rtp/225.1.2.169:5002
 湖南卫视,http://wuqianmu.synology.me:4000/udp/232.0.0.115:1234
 湖南卫视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032695/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032695
 湖南卫视,http://218.241.192.50:8808/rtp/239.3.1.132:8012
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视,http://119.62.36.174:9901/tsfile/live/0127_2.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
@@ -432,13 +432,13 @@ CCTV高尔夫网球,http://111.162.164.172:8686/rtp/225.1.2.169:5002
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226456/index.m3u8
 山东卫视,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=sdws
+山东卫视,http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
 山东卫视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000016568/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000016568
 山东卫视,http://218.241.192.50:8808/rtp/239.3.1.209:8052
 山东卫视,http://222.241.154.37:9901/tsfile/live/23040_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://119.62.36.174:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://202.100.46.58:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://14.204.12.226:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 天津卫视,http://111.160.17.2:59901/tsfile/live/1004_1.m3u8
@@ -581,7 +581,6 @@ CCTV高尔夫网球,http://111.162.164.172:8686/rtp/225.1.2.169:5002
 河北卫视,http://14.204.12.226:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 河南卫视,http://wuqianmu.synology.me:4000/udp/232.0.0.80:1234
-河南卫视,http://117.72.68.25:9930/hn.php?id=hnws
 河南卫视,http://123.114.19.80:4000/rtp/239.3.1.27:8128
 河南卫视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031119/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031119
 河南卫视,http://222.241.154.37:9901/tsfile/live/23044_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -589,6 +588,7 @@ CCTV高尔夫网球,http://111.162.164.172:8686/rtp/225.1.2.169:5002
 河南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226480/index.m3u8
 河南卫视,http://111.160.17.2:59902/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://119.62.36.174:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://14.204.12.226:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 甘肃卫视,http://wuqianmu.synology.me:4000/udp/232.0.0.50:1234
 甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4
@@ -610,6 +610,7 @@ CCTV高尔夫网球,http://111.162.164.172:8686/rtp/225.1.2.169:5002
 内蒙古卫视,http://171.217.5.108:8123/udp/239.93.0.8:5140
 内蒙古卫视,http://171.108.239.128:8181/tsfile/live/1077_1.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏卫视,http://wuqianmu.synology.me:4000/udp/232.0.0.34:1234
 宁夏卫视,http://123.114.19.80:4000/rtp/239.3.1.46:8124
 宁夏卫视,http://113.218.189.23:8081/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -618,7 +619,6 @@ CCTV高尔夫网球,http://111.162.164.172:8686/rtp/225.1.2.169:5002
 宁夏卫视,http://123.189.36.7:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://113.218.189.23:8081/tsfile/live/0112_1.m3u8
 宁夏卫视,http://171.217.5.108:8123/udp/239.93.0.247:5140
-宁夏卫视,http://171.108.239.128:8181/tsfile/live/0112_1.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
@@ -859,7 +859,6 @@ NewTV超级综艺,http://gslbserv.itv.cmvideo.cn/1000000006000268002/1.m3u8?chan
 金鹰卡通,http://222.64.56.17:6666/udp/239.45.3.118:5140
 金鹰卡通,http://xuys.top:8888/udp/225.1.2.236:5002
 金鹰纪实,http://xuys.top:8888/udp/225.1.1.124:5002
-金鹰纪实,http://101.27.34.77:2888/hls/36/index.m3u8
 金鹰纪实,http://home.oxtv.top:5066/udp/239.21.1.170:5002
 金鹰纪实,http://218.80.79.205:4022/udp/239.45.1.45:5140
 金鹰纪实,http://www.yao87.com:4022/rtp/239.76.252.122:9000
@@ -868,6 +867,7 @@ NewTV超级综艺,http://gslbserv.itv.cmvideo.cn/1000000006000268002/1.m3u8?chan
 金鹰纪实,http://58.19.38.162:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=316
 金鹰纪实,http://wsd.saj-web.top:4000/udp/225.1.1.124:5002
+金鹰纪实,http://222.241.211.36:10010/udp/239.86.1.170:1234
 哈哈炫动,http://180.171.56.119:10000/udp/239.45.1.55:5140
 哈哈炫动,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031123/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031123
 哈哈炫动,http://113.218.189.23:8081/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
