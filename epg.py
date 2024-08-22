@@ -71,6 +71,10 @@ class EPG:
         for programme in root.findall('programme'):
             if programme.get('channel') in del_channel_ids:
                 root.remove(programme)
+            else:
+                desc = programme.find('desc')
+                if desc is not None:
+                    programme.remove(desc)
 
         non_existed_channels = ', '.join([n for n in self.iptv.channels.keys() if n not in reserved_channel_names])
         logging.info(f'没有节目表的频道: {non_existed_channels}')
