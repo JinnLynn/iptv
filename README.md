@@ -1,8 +1,6 @@
-## IPTV 直播源
+# IPTV 直播源
 
-自动收集整理，优先使用被高频使用的直播源
-
-每天自动生成
+自动生成结果，项目请查看 [JinnLynn/iptv](https://github.com/JinnLynn/iptv)
 
 ```txt
 https://raw.githubusercontent.com/JinnLynn/iptv/dist/live.m3u
@@ -12,4 +10,20 @@ https://raw.githubusercontent.com/JinnLynn/iptv/dist/live.m3u
 https://raw.githubusercontent.com/JinnLynn/iptv/dist/live.txt
 ```
 
-说明: 该分支是保存生成结果，项目说明请查看 [JinnLynn/iptv](https://github.com/JinnLynn/iptv)
+```txt
+https://raw.githubusercontent.com/JinnLynn/iptv/dist/live-ipv4.m3u
+```
+
+```txt
+https://raw.githubusercontent.com/JinnLynn/iptv/dist/live-ipv4.txt
+```
+
+```txt
+https://raw.githubusercontent.com/JinnLynn/iptv/dist/epg.xml
+```
+
+```txt
+https://raw.githubusercontent.com/JinnLynn/iptv/dist/epg.xml.gz
+```
+
+**注意: EPG已经过处理，优化文件大小(*5MB => 900KB*），仅包含所需频道数据，因此不通用，应与生成的直播源配合使用**
