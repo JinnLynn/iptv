@@ -8,37 +8,37 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV1.png" group-title="央视频道",CCTV1
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV1.png" group-title="央视频道",CCTV1
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV1.png" group-title="央视频道",CCTV1
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/index.m3u8
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226153/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV1.png" group-title="央视频道",CCTV1
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV1.png" group-title="央视频道",CCTV1
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV1.png" group-title="央视频道",CCTV1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV1.png" group-title="央视频道",CCTV1
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010211/
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
 http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002135/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000005000031113/1.m3u8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV2.png" group-title="央视频道",CCTV2
-http://[2409:8087:1a01:df::4059]/TVOD/88888888/224/3221226079/main.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000005000031113/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
@@ -50,15 +50,15 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000013682/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013682
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV3.png" group-title="央视频道",CCTV3
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010212/
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV4.png" group-title="央视频道",CCTV4
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV4.png" group-title="央视频道",CCTV4
@@ -70,7 +70,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031102/index.m
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV4.png" group-title="央视频道",CCTV4
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV4.png" group-title="央视频道",CCTV4
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265004/1.m3u8
+http://[2409:8087:1a01:df::4029]/TVOD/88888888/224/3221226092/main.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV4.png" group-title="央视频道",CCTV4
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV4.png" group-title="央视频道",CCTV4
@@ -86,11 +86,11 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/1.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
@@ -98,19 +98,19 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5.png" group-title="央视频道",CCTV5
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226365/index.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8?
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
-http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002139/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002139/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV5+.png" group-title="央视频道",CCTV5+
@@ -148,9 +148,9 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV7.png" group-title="央视频道",CCTV7
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV7.png" group-title="央视频道",CCTV7
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV7.png" group-title="央视频道",CCTV7
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000017218/1.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV7.png" group-title="央视频道",CCTV7
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265007/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV7.png" group-title="央视频道",CCTV7
@@ -168,17 +168,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV8.png" group-title="央视频道",CCTV8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV8.png" group-title="央视频道",CCTV8
-http://[2409:8087:74d9:21::6]/270000001128/9900000008/index.m3u8
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226150/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV8.png" group-title="央视频道",CCTV8
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003736/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003736
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV8.png" group-title="央视频道",CCTV8
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010216/
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV8.png" group-title="央视频道",CCTV8
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/
+http://[2409:8087:74d9:21::6]/270000001128/9900000008/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV8.png" group-title="央视频道",CCTV8
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
+http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225795/main.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV8.png" group-title="央视频道",CCTV8
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226008/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
@@ -186,19 +186,19 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010052/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014583/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014583
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014583/1.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
-http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002144/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028286/1.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010052/1.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010052/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014583/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014583
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028286/1.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV9.png" group-title="央视频道",CCTV9
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8?
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV10.png" group-title="央视频道",CCTV10
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV10.png" group-title="央视频道",CCTV10
@@ -208,17 +208,17 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV10.png" group-title="央视频道",CCTV10
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV10.png" group-title="央视频道",CCTV10
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV10.png" group-title="央视频道",CCTV10
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023734
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV10.png" group-title="央视频道",CCTV10
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000012827/1.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023734
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV10.png" group-title="央视频道",CCTV10
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000016738/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000012827/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV10.png" group-title="央视频道",CCTV10
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225730/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000016738/1.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV10.png" group-title="央视频道",CCTV10
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV11.png" group-title="央视频道",CCTV11
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV11.png" group-title="央视频道",CCTV11
@@ -228,17 +228,17 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV11.png" group-title="央视频道",CCTV11
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV11.png" group-title="央视频道",CCTV11
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010092/index.m3u8
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226541/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV11.png" group-title="央视频道",CCTV11
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010092/1.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV11.png" group-title="央视频道",CCTV11
 http://123.166.61.70:8003/hls/43/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV11.png" group-title="央视频道",CCTV11
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV11.png" group-title="央视频道",CCTV11
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031106/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031106
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV11.png" group-title="央视频道",CCTV11
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV11.png" group-title="央视频道",CCTV11
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019789/1.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV11.png" group-title="央视频道",CCTV11
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV11.png" group-title="央视频道",CCTV11
 http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002177/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV11.png" group-title="央视频道",CCTV11
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031106/
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV12.png" group-title="央视频道",CCTV12
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV12.png" group-title="央视频道",CCTV12
@@ -256,9 +256,9 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032494/index.m
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV12.png" group-title="央视频道",CCTV12
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031107/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV12.png" group-title="央视频道",CCTV12
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010205/
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV12.png" group-title="央视频道",CCTV12
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV12.png" group-title="央视频道",CCTV12
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV13.png" group-title="央视频道",CCTV13
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV13.png" group-title="央视频道",CCTV13
@@ -278,7 +278,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031108/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV13.png" group-title="央视频道",CCTV13
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031108/
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV13.png" group-title="央视频道",CCTV13
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002179/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV14.png" group-title="央视频道",CCTV14
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV14.png" group-title="央视频道",CCTV14
@@ -292,13 +292,13 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV14.png" group-title="央视频道",CCTV14
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000008170/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008170
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV14.png" group-title="央视频道",CCTV14
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/index.m3u8
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226166/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV14.png" group-title="央视频道",CCTV14
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV14.png" group-title="央视频道",CCTV14
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006673/
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV14.png" group-title="央视频道",CCTV14
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV14.png" group-title="央视频道",CCTV14
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV15.png" group-title="央视频道",CCTV15
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV15.png" group-title="央视频道",CCTV15
@@ -306,15 +306,15 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV15.png" group-title="央视频道",CCTV15
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV15.png" group-title="央视频道",CCTV15
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV15.png" group-title="央视频道",CCTV15
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV15.png" group-title="央视频道",CCTV15
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031109/
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV15.png" group-title="央视频道",CCTV15
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031109/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV15.png" group-title="央视频道",CCTV15
-http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002181/index.m3u8
+http://[2409:8087:1a01:df::4033]/TVOD/88888888/224/3221226127/main.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV15.png" group-title="央视频道",CCTV15
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226616/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV15.png" group-title="央视频道",CCTV15
@@ -330,15 +330,15 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV16.png" group-title="央视频道",CCTV16
 http://[2409:8087:74d9:21::6]/270000001128/9900000016/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV16.png" group-title="央视频道",CCTV16
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/index.m3u8
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226413/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV16.png" group-title="央视频道",CCTV16
-http://123.166.61.70:8003/hls/16/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV16.png" group-title="央视频道",CCTV16
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023253/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023253
+http://123.166.61.70:8003/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV16.png" group-title="央视频道",CCTV16
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023253/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023253
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV16.png" group-title="央视频道",CCTV16
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV17.png" group-title="央视频道",CCTV17
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV17.png" group-title="央视频道",CCTV17
@@ -350,9 +350,9 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV17.png" group-title="央视频道",CCTV17
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV17.png" group-title="央视频道",CCTV17
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV17.png" group-title="央视频道",CCTV17
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV17.png" group-title="央视频道",CCTV17
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV17.png" group-title="央视频道",CCTV17
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV17.png" group-title="央视频道",CCTV17
@@ -394,11 +394,11 @@ http://mdxgh.tpddns.cn:88/mdxgh/cctv8k
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV8K.png" group-title="央视频道",CCTV8K
 https://tv.cry33.com/ys4k.php?id=8k
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV8K.png" group-title="央视频道",CCTV8K
-http://159.75.85.63:8654/xx8k50fps.php
+http://alvin.ergotron.net:8000/udp/239.253.43.106:5146
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV8K.png" group-title="央视频道",CCTV8K
 http://pix.zhoujie218.top/ysp/cctv8k
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV8K.png" group-title="央视频道",CCTV8K
-http://alvin.ergotron.net:8000/udp/239.253.43.106:5146
+http://159.75.85.63:8654/xx8k50fps.php
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN.png" group-title="央视频道",CGTN
 http://fm1077.serv00.net/Smart.php?id=CGTN
 #EXTINF:-1 tvg-id="2" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CGTN.png" group-title="央视频道",CGTN
@@ -422,43 +422,43 @@ http://113.13.243.108:6666/udp/239.81.0.28:4056
 #EXTINF:-1 tvg-id="1" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV1.png" group-title="央视频道",CETV1
 http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV1.png" group-title="央视频道",CETV1
-http://1.69.74.111:9902/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+http://1.69.2.100:9902/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="3" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV1.png" group-title="央视频道",CETV1
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000027253/1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV1.png" group-title="央视频道",CETV1
-http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225652/index.m3u8
+http://1.69.74.111:9902/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="5" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV1.png" group-title="央视频道",CETV1
-http://1b6467f415.iok.la:9931/tsfile/live/1125_1.m3u8
+http://1.69.74.243:9902/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="6" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV1.png" group-title="央视频道",CETV1
-http://114.252.227.154:8000/rtp/239.3.1.57:8152
+http://124.65.0.99:20000/rtp/239.3.1.57:8152
 #EXTINF:-1 tvg-id="7" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV1.png" group-title="央视频道",CETV1
-http://1.203.76.10:7788/udp/225.1.8.32:8152
+http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV1.png" group-title="央视频道",CETV1
-http://1.203.76.10:7788/udp/225.1.8.169:4120
+http://1b6467f415.iok.la:9931/tsfile/live/1125_1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV1.png" group-title="央视频道",CETV1
-http://1.24.190.98:10080/hls/17/index.m3u8
+http://114.252.227.154:8000/rtp/239.3.1.57:8152
 #EXTINF:-1 tvg-id="10" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV1.png" group-title="央视频道",CETV1
-http://61.185.200.157:10000/rtp/239.109.205.47:8312
+http://1.203.76.10:7788/udp/225.1.8.32:8152
 #EXTINF:-1 tvg-id="1" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV2.png" group-title="央视频道",CETV2
 http://[2409:8087:1a0b:df::4013]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV2.png" group-title="央视频道",CETV2
 http://1.69.74.111:9902/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="3" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV2.png" group-title="央视频道",CETV2
-http://[2409:8087:1a0b:df::4013]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226425/index.m3u8
+http://1.69.2.100:9902/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="4" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV2.png" group-title="央视频道",CETV2
-http://114.252.227.154:8000/rtp/239.3.1.54:4120
+http://1.69.74.243:9902/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="5" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV2.png" group-title="央视频道",CETV2
-http://1.203.76.10:7788/udp/225.1.8.193:4120
+http://[2409:8087:1a0b:df::4013]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV2.png" group-title="央视频道",CETV2
-http://1.24.190.98:10080/hls/18/index.m3u8
+http://114.252.227.154:8000/rtp/239.3.1.54:4120
 #EXTINF:-1 tvg-id="7" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV2.png" group-title="央视频道",CETV2
-http://61.185.200.157:10000/rtp/239.109.205.48:8320
+http://1.203.76.10:7788/udp/225.1.8.193:4120
 #EXTINF:-1 tvg-id="8" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV2.png" group-title="央视频道",CETV2
-http://113.13.243.108:6666/udp/239.81.0.245:4056
+http://1.24.190.98:10080/hls/18/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV2.png" group-title="央视频道",CETV2
-http://wouu.net:9977/udp/239.93.0.113:5140
+http://61.185.200.157:10000/rtp/239.109.205.48:8320
 #EXTINF:-1 tvg-id="10" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV2.png" group-title="央视频道",CETV2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+http://113.13.243.108:6666/udp/239.81.0.245:4056
 #EXTINF:-1 tvg-id="1" tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV3.png" group-title="央视频道",CETV3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="2" tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CETV3.png" group-title="央视频道",CETV3
@@ -510,13 +510,13 @@ http://60.26.62.138:4022/rtp/225.1.1.183:5002
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
 http://111.123.105.133:8881/rtp/238.255.2.25:5999
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
-http://120.234.49.38:7000/udp/239.21.0.78:3652
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
-http://xuys.top:8888/udp/225.1.2.175:5002
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
 http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
 http://112.234.23.81:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
+http://wuqianmu.synology.me:4000/udp/232.0.0.29:1234
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
+http://120.234.49.38:7000/udp/239.21.0.69:3616
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
 http://www.lizhinas.top:8688/rtp/239.252.219.90:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
@@ -526,27 +526,27 @@ http://60.26.62.138:4022/rtp/225.1.1.184:5002
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
 http://111.123.105.133:8881/rtp/238.255.2.33:5999
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
-http://120.234.49.38:7000/udp/239.21.0.75:3640
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
 http://111.61.236.247:9081/hls/67/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
 http://112.234.23.81:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
-http://222.169.41.210:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
 http://120.76.248.139/live/bfgd/4200000224.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
+http://wuqianmu.synology.me:4000/udp/232.0.0.38:1234
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
+http://120.234.49.38:7000/udp/239.21.0.75:3640
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
 http://58.63.64.167:8888/udp/239.253.43.25:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
-http://113.195.4.227:9901/tsfile/live/1037_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
-http://113.195.4.227:9901/tsfile/live/1085_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
 http://www.lizhinas.top:8688/rtp/239.252.219.89:5140
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
 http://113.195.4.134:9901/tsfile/live/1085_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
 http://113.195.4.134:9901/tsfile/live/1037_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
+http://113.195.4.227:9901/tsfile/live/1085_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
+http://113.195.4.227:9901/tsfile/live/1037_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
 http://mryx.fun:1025/udp/239.11.0.65:1025
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
@@ -554,13 +554,13 @@ http://60.26.62.138:4022/rtp/225.1.1.185:5002
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
 http://111.123.105.133:8881/rtp/238.255.2.28:5999
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
-http://58.63.64.167:8888/udp/239.253.43.26:5146
+http://xuys.top:8888/udp/225.1.2.174:5002
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
-http://58.63.64.167:8888/udp/239.253.43.16:5146
+http://wuqianmu.synology.me:4000/udp/232.0.0.45:1234
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
-http://www.lizhinas.top:8688/rtp/239.252.219.93:5140
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
 http://111.61.236.247:9081/hls/62/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
+http://www.lizhinas.top:8688/rtp/239.252.219.93:5140
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
 http://mryx.fun:1025/udp/239.11.0.63:1025
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
@@ -570,13 +570,13 @@ http://60.26.62.138:4022/rtp/225.1.1.186:5002
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
 http://111.123.105.133:8881/rtp/238.255.2.26:5999
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
-http://www.akw323.com:9527/udp/238.255.2.26:5999
+http://182.104.192.98:8180/TV00000000000000000044@HHZT
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
-http://60.7.56.50:4000/udp/239.253.92.113:8066
+http://58.63.64.167:8888/udp/239.253.43.24:5146
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
-http://123.180.177.20:16000/udp/239.253.92.131:6113
+http://58.63.64.167:8888/udp/239.253.43.7:5146
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
-http://60.7.56.50:4000/udp/239.253.92.131:6113
+http://111.167.38.165:5002/udp/225.1.2.171:5002
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV风云音乐" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云音乐.png" group-title="央视频道",CCTV风云音乐
 http://www.lizhinas.top:8688/rtp/239.252.219.87:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV风云音乐" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云音乐.png" group-title="央视频道",CCTV风云音乐
@@ -602,21 +602,21 @@ http://60.26.62.138:4022/rtp/225.1.1.187:5002
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV国防军事" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV国防军事.png" group-title="央视频道",CCTV国防军事
 https://epg.pw/stream/ac14de0ee2633fbae592ba76f71688308fcc6cf04419ef6b7eefee4c8e41e437.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
-http://113.195.4.227:9901/tsfile/live/1054_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
 http://www.lizhinas.top:8688/rtp/239.252.219.94:5140
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
 http://113.195.4.134:9901/tsfile/live/1054_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
+http://113.195.4.227:9901/tsfile/live/1054_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
 http://60.26.62.138:4022/rtp/225.1.1.190:5002
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
-http://120.234.49.38:7000/udp/239.21.0.73:3632
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
 http://111.61.236.247:9081/hls/59/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
-http://113.195.4.227:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
 http://120.76.248.139/live/bfgd/4200000176.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
+http://xuys.top:8888/udp/225.1.2.172:5002
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
+http://113.9.131.48:55055/udp/229.58.190.195:5000
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
 http://58.63.64.167:8888/udp/239.253.43.23:5146
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
@@ -632,29 +632,29 @@ http://111.167.38.165:5002/udp/225.1.2.177:5002
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视文化精品.png" group-title="央视频道",CCTV央视文化精品
 http://60.26.62.138:4022/rtp/225.1.1.189:5002
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视文化精品.png" group-title="央视频道",CCTV央视文化精品
-http://221.205.202.136:8083/rtp/226.0.2.219:9664
+http://183.165.35.35:5555/rtp/238.1.79.54:4568
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视文化精品.png" group-title="央视频道",CCTV央视文化精品
-http://221.205.180.219:8002/rtp/226.0.2.219:9664
+http://171.125.90.105:6001/rtp/226.0.2.219:9664
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视文化精品.png" group-title="央视频道",CCTV央视文化精品
-http://221.205.180.219:8004/rtp/226.0.2.219:9664
+http://60.220.167.211:8085/rtp/226.0.2.219:9664
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视文化精品.png" group-title="央视频道",CCTV央视文化精品
-http://221.205.180.219:8001/rtp/226.0.2.219:9664
+http://60.220.167.211:8082/rtp/226.0.2.219:9664
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视文化精品.png" group-title="央视频道",CCTV央视文化精品
-http://222.186.57.133:22222/php/cqtv.php?id=whjp&time=20240926215313&ip=111.229.253.40
+http://60.220.167.211:8084/rtp/226.0.2.219:9664
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视文化精品.png" group-title="央视频道",CCTV央视文化精品
-http://117.9.171.150:8888/rtp/225.1.2.177:5002
+http://60.220.167.25:8085/rtp/226.0.2.219:9664
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
 http://www.lizhinas.top:8688/rtp/239.252.219.97:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
 http://60.26.62.138:4022/rtp/225.1.1.194:5002
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
-http://120.234.49.38:7000/udp/239.21.0.81:3664
+http://120.76.248.139/live/bfgd/4200000164.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
 http://wuqianmu.synology.me:4000/udp/232.0.0.91:1234
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
-http://120.76.248.139/live/bfgd/4200000164.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
 http://xuys.top:8888/udp/225.1.2.167:5002
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
+http://120.234.49.38:7000/udp/239.21.0.81:3664
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
 http://58.63.64.167:8888/udp/239.253.43.19:5146
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
@@ -670,19 +670,19 @@ http://42.48.17.204:808/hls/108/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
 http://60.26.62.138:4022/rtp/225.1.1.198:5002
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
-http://124.230.56.55:55555/udp/239.76.254.58:9000
+http://113.9.131.48:55055/udp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
-http://119.135.1.16:6699/live/1077/index.m3u8
+http://120.234.49.38:7000/udp/239.21.0.71:3624
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
-http://zhancheng.x3322.net:6699/live/1077/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
-http://wuqianmu.synology.me:4000/udp/232.0.0.60:1234
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
 http://58.63.64.167:8888/udp/239.253.43.21:5146
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
 http://58.63.64.167:8888/udp/239.253.43.11:5146
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
 http://111.167.38.165:5002/udp/225.1.2.170:5002
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
+http://1732e975z9.zicp.fun:8082/hls/108/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
+rtsp://115.153.254.81/PLTV/88888888/224/3221226955/86106661.smil
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV卫生与健康" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV卫生与健康.png" group-title="央视频道",CCTV卫生与健康
 http://60.26.62.138:4022/rtp/225.1.1.210:5002
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV风云足球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
@@ -698,7 +698,7 @@ http://60.26.62.138:4022/rtp/225.1.1.181:5002
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV风云足球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
 http://111.123.105.133:8881/rtp/238.255.2.29:5999
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV风云足球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
-http://123.180.177.20:16000/udp/239.253.93.254:6432
+http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV风云足球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
 http://58.63.64.167:8888/udp/239.253.43.20:5146
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV风云足球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
@@ -718,13 +718,13 @@ http://58.63.64.167:8888/udp/239.253.43.12:5146
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV高尔夫网球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
 http://111.167.38.165:5002/udp/225.1.2.169:5002
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV高尔夫网球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
-http://221.205.202.136:8083/rtp/226.0.2.217:9648
+http://183.165.35.35:5555/rtp/238.1.79.58:4600
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV高尔夫网球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
-http://221.205.180.219:8002/rtp/226.0.2.217:9648
+http://171.125.90.105:6001/rtp/226.0.2.217:9648
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV高尔夫网球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
-http://221.205.180.219:8004/rtp/226.0.2.217:9648
+http://110.177.148.13:58888/udp/239.1.1.102:8102
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV高尔夫网球" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CCTV高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
-http://221.205.180.219:8001/rtp/226.0.2.217:9648
+http://60.220.167.211:8085/rtp/226.0.2.217:9648
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -732,19 +732,19 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006692/1.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030452/1.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010224/
-#EXTINF:-1 tvg-id="7" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010058/
-#EXTINF:-1 tvg-id="8" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009115/1.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010058/1.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226656/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030452/1.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
@@ -754,17 +754,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://[2409:8087:1a01:df::4043]/TVOD/88888888/224/3221225959/main.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002206/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://[2409:8087:1a01:df::4001]/TVOD/88888888/224/3221225514/main.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://[2409:8087:1a01:df::4043]/TVOD/88888888/224/3221225959/main.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002206/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/东方卫视.png" group-title="卫视频道",东方卫视
@@ -772,19 +772,19 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="3" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/东方卫视.png" group-title="卫视频道",东方卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/1.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/东方卫视.png" group-title="卫视频道",东方卫视
+#EXTINF:-1 tvg-id="5" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/东方卫视.png" group-title="卫视频道",东方卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/
 #EXTINF:-1 tvg-id="7" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/东方卫视.png" group-title="卫视频道",东方卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000032246/1.m3u8
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226735/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226155/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/东方卫视.png" group-title="卫视频道",东方卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000014098/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000005866/1.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/东方卫视.png" group-title="卫视频道",东方卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226345/index.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226345/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/北京卫视.png" group-title="卫视频道",北京卫视
@@ -794,17 +794,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/北京卫视.png" group-title="卫视频道",北京卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/1.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::4020]/TVOD/88888888/224/3221225678/main.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/北京卫视.png" group-title="卫视频道",北京卫视
+#EXTINF:-1 tvg-id="6" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/北京卫视.png" group-title="卫视频道",北京卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000031556/1.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/北京卫视.png" group-title="卫视频道",北京卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000021288/1.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/北京卫视.png" group-title="卫视频道",北京卫视
+#EXTINF:-1 tvg-id="7" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://[2409:8087:1a01:df::4030]/TVOD/88888888/224/3221225931/main.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/
+#EXTINF:-1 tvg-id="10" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://123.166.61.70:8003/hls/56/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
@@ -822,7 +822,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="8" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010059/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000019351/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010225/1.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/东南卫视.png" group-title="卫视频道",东南卫视
@@ -854,17 +854,17 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="4" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010041/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226205/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002200/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000030159/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000023002/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2802330256_375747539/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1668597596&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020780/1.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://123.166.61.70:8003/hls/55/index.m3u8
+http://[2409:8087:1a01:df::4035]/TVOD/88888888/224/3221225925/main.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/山东卫视.png" group-title="卫视频道",山东卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/山东卫视.png" group-title="卫视频道",山东卫视
@@ -874,17 +874,17 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="4" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/山东卫视.png" group-title="卫视频道",山东卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226456/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/山东卫视.png" group-title="卫视频道",山东卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012807/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/7347081113971056899/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/山东卫视.png" group-title="卫视频道",山东卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226456/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000020424/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/山东卫视.png" group-title="卫视频道",山东卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010066/index.m3u8
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002202/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/山东卫视.png" group-title="卫视频道",山东卫视
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010066/
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012807/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/山东卫视.png" group-title="卫视频道",山东卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000016568/1.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226456/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/山东卫视.png" group-title="卫视频道",山东卫视
-http://[2409:8087:1a01:df::4027]/TVOD/88888888/224/3221225952/main.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000016568/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/天津卫视.png" group-title="卫视频道",天津卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/天津卫视.png" group-title="卫视频道",天津卫视
@@ -900,11 +900,11 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 #EXTINF:-1 tvg-id="7" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/天津卫视.png" group-title="卫视频道",天津卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000000831/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/天津卫视.png" group-title="卫视频道",天津卫视
-http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002205/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/天津卫视.png" group-title="卫视频道",天津卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010069/
-#EXTINF:-1 tvg-id="10" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/天津卫视.png" group-title="卫视频道",天津卫视
+#EXTINF:-1 tvg-id="9" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/天津卫视.png" group-title="卫视频道",天津卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/1.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/天津卫视.png" group-title="卫视频道",天津卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/广东卫视.png" group-title="卫视频道",广东卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/广东卫视.png" group-title="卫视频道",广东卫视
@@ -932,27 +932,27 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/四川卫视.png" group-title="卫视频道",四川卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/四川卫视.png" group-title="卫视频道",四川卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000016825/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010115/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/四川卫视.png" group-title="卫视频道",四川卫视
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226454/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/四川卫视.png" group-title="卫视频道",四川卫视
-http://[2409:8087:74d9:21::6]/270000001128/9900000025/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/四川卫视.png" group-title="卫视频道",四川卫视
 http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/四川卫视.png" group-title="卫视频道",四川卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/四川卫视.png" group-title="卫视频道",四川卫视
+#EXTINF:-1 tvg-id="7" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/四川卫视.png" group-title="卫视频道",四川卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006119/1.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/四川卫视.png" group-title="卫视频道",四川卫视
+#EXTINF:-1 tvg-id="8" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/四川卫视.png" group-title="卫视频道",四川卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010115/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/四川卫视.png" group-title="卫视频道",四川卫视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226338/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/四川卫视.png" group-title="卫视频道",四川卫视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226338/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010061/1.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000011671/1.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000024033/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010061/
 #EXTINF:-1 tvg-id="6" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
@@ -974,17 +974,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010057/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226477/index.m3u8
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002204/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000024621/1.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226477/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000014954/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000024621/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://[2409:8087:1a01:df::4007]/TVOD/88888888/224/3221225569/main.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000014954/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226477/index.m3u8
+http://[2409:8087:1a01:df::4007]/TVOD/88888888/224/3221225569/main.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000010355/1.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226477/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
@@ -994,13 +994,13 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://[2409:8087:1a01:df::4009]/TVOD/88888888/224/3221225668/main.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226199/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://[2409:8087:1a01:df::4009]/TVOD/88888888/224/3221225668/main.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011645/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009227/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/
 #EXTINF:-1 tvg-id="10" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
@@ -1012,19 +1012,19 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8
+http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225963/main.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226409/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010053/
 #EXTINF:-1 tvg-id="8" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000018937/1.m3u8
+http://36.35.16.98:9901/tsfile/live/0001_7.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="9" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010218/1.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://123.166.61.70:8003/hls/62/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/广西卫视.png" group-title="卫视频道",广西卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/广西卫视.png" group-title="卫视频道",广西卫视
@@ -1032,9 +1032,9 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010099/1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/广西卫视.png" group-title="卫视频道",广西卫视
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226452/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/广西卫视.png" group-title="卫视频道",广西卫视
-http://[2409:8087:74d9:21::6]/270000001128/9900000034/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/广西卫视.png" group-title="卫视频道",广西卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/广西卫视.png" group-title="卫视频道",广西卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019837/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/广西卫视.png" group-title="卫视频道",广西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031118/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/广西卫视.png" group-title="卫视频道",广西卫视
@@ -1044,7 +1044,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/广西卫视.png" group-title="卫视频道",广西卫视
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010099/main.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/广西卫视.png" group-title="卫视频道",广西卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226549/index.m3u8
+http://[2409:8087:74d9:21::6]/270000001128/9900000034/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/海南卫视.png" group-title="卫视频道",海南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/海南卫视.png" group-title="卫视频道",海南卫视
@@ -1052,7 +1052,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/海南卫视.png" group-title="卫视频道",海南卫视
 http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:74d9:21::6]/270000001128/9900000037/index.m3u8
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/海南卫视.png" group-title="卫视频道",海南卫视
 http://[2409:8087:1a01:df::4025]/TVOD/88888888/224/3221225978/main.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/海南卫视.png" group-title="卫视频道",海南卫视
@@ -1074,17 +1074,17 @@ http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="4" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225981/main.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226440/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://[2409:8087:74d9:21::6]/270000001128/9900000030/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+#EXTINF:-1 tvg-id="6" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+#EXTINF:-1 tvg-id="7" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+#EXTINF:-1 tvg-id="8" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031117/1.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+#EXTINF:-1 tvg-id="9" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1874077489_789689702/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1669700475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-id="10" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://222.134.245.16:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江西卫视.png" group-title="卫视频道",江西卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江西卫视.png" group-title="卫视频道",江西卫视
@@ -1092,39 +1092,39 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江西卫视.png" group-title="卫视频道",江西卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江西卫视.png" group-title="卫视频道",江西卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010060/1.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江西卫视.png" group-title="卫视频道",江西卫视
 http://[2409:8087:1a01:df::4027]/TVOD/88888888/224/3221225935/main.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江西卫视.png" group-title="卫视频道",江西卫视
+#EXTINF:-1 tvg-id="5" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江西卫视.png" group-title="卫视频道",江西卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226344/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江西卫视.png" group-title="卫视频道",江西卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江西卫视.png" group-title="卫视频道",江西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000013731/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江西卫视.png" group-title="卫视频道",江西卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000011210/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010060/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江西卫视.png" group-title="卫视频道",江西卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268001/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000011210/1.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/江西卫视.png" group-title="卫视频道",江西卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1965546073_-1364170119/ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8?icpid=3&RTS=1669700566&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268001/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002142/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010056/1.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://123.138.216.44:9902/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="6" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009082/1.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010056/
-#EXTINF:-1 tvg-id="9" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+#EXTINF:-1 tvg-id="8" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226142/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://[2409:8087:1a01:df::4025]/TVOD/88888888/224/3221225985/main.m3u8
+http://123.166.61.70:8003/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
@@ -1132,11 +1132,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010100/1.m3u8
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226474/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010100/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000003169/1.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010100/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
@@ -1152,7 +1152,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河北卫视.png" group-title="卫视频道",河北卫视
 http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河北卫视.png" group-title="卫视频道",河北卫视
-http://[2409:8087:74d9:21::6]/270000001128/9900000057/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010101/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河北卫视.png" group-title="卫视频道",河北卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226406/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河北卫视.png" group-title="卫视频道",河北卫视
@@ -1160,9 +1160,9 @@ http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226442/index.m3u
 #EXTINF:-1 tvg-id="7" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河北卫视.png" group-title="卫视频道",河北卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040016/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河北卫视.png" group-title="卫视频道",河北卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010101/index.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河北卫视.png" group-title="卫视频道",河北卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010101/1.m3u8
+http://[2409:8087:74d9:21::6]/270000001128/9900000057/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河北卫视.png" group-title="卫视频道",河北卫视
 http://[2409:8087:1a01:df::4035]/TVOD/88888888/224/3221225961/main.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河南卫视.png" group-title="卫视频道",河南卫视
@@ -1176,15 +1176,15 @@ http://[2409:8087:1a01:df::4030]/TVOD/88888888/224/3221225988/main.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河南卫视.png" group-title="卫视频道",河南卫视
 http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河南卫视.png" group-title="卫视频道",河南卫视
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226614/index.m3u8
+http://[2409:8087:74d9:21::6]/270000001128/9900000027/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河南卫视.png" group-title="卫视频道",河南卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226480/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031119/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河南卫视.png" group-title="卫视频道",河南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1669700385&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="9" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河南卫视.png" group-title="卫视频道",河南卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226480/index.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/河南卫视.png" group-title="卫视频道",河南卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226480/index.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
@@ -1194,37 +1194,37 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000023/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031121/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000017827/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1668600490&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="8" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+#EXTINF:-1 tvg-id="7" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031121/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031121
-#EXTINF:-1 tvg-id="9" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+#EXTINF:-1 tvg-id="8" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002160/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226759/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://116.128.224.11:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 #EXTINF:-1 tvg-id="2" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010109/1.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-id="3" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000319/index.m3u8?IAS
+#EXTINF:-1 tvg-id="4" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010109/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://58.51.111.46:1111/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0thid=0
 #EXTINF:-1 tvg-id="6" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://58.57.21.166:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="7" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://36.35.16.98:9901/tsfile/live/0001_16.m3u8?key=txiptv&playlive=0&authid=0
+http://222.134.245.16:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="8" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://[2409:8087:1a0b:df::4017]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+http://36.35.16.98:9901/tsfile/live/0001_16.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="9" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://rihou.cc:55/ak1/aikan.php?id=nmws
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010109/1.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://58.57.21.166:9901/tsfile/live/0109_1.m3u8
+http://[2409:8087:1a0b:df::4017]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
@@ -1244,7 +1244,7 @@ http://58.57.21.166:9901/tsfile/live/0112_1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://114.252.227.154:8000/rtp/239.3.1.46:8124
 #EXTINF:-1 tvg-id="10" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://[2409:8087:1a0b:df::4004]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+http://36.35.16.98:9901/tsfile/live/0001_6.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/青海卫视.png" group-title="卫视频道",青海卫视
 http://[2409:8087:1a0b:df::4002]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/青海卫视.png" group-title="卫视频道",青海卫视
@@ -1258,9 +1258,9 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000013359/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/青海卫视.png" group-title="卫视频道",青海卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="7" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/青海卫视.png" group-title="卫视频道",青海卫视
 http://[2409:8087:1a0b:df::4002]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/青海卫视.png" group-title="卫视频道",青海卫视
+http://36.35.16.98:9901/tsfile/live/0001_14.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="9" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/青海卫视.png" group-title="卫视频道",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/青海卫视.png" group-title="卫视频道",青海卫视
@@ -1274,15 +1274,15 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://[2409:8087:1a0b:df::4005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000029441/1.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040018/1.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
+#EXTINF:-1 tvg-id="6" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010116/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
+#EXTINF:-1 tvg-id="7" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010116/1.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
+#EXTINF:-1 tvg-id="8" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://36.35.16.98:9901/tsfile/live/0001_15.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="9" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://58.216.229.130:9901/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="10" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
@@ -1290,21 +1290,21 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000024694/1.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031120/
-#EXTINF:-1 tvg-id="6" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
 http://[2409:8087:74d9:21::6]/270000001128/9900000035/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000305/index.m3u8?IAS
-#EXTINF:-1 tvg-id="8" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8?
-#EXTINF:-1 tvg-id="9" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
-http://222.134.245.16:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="10" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
+#EXTINF:-1 tvg-id="4" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031120/
+#EXTINF:-1 tvg-id="7" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
+http://222.134.245.16:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="8" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000305/index.m3u8?IAS
+#EXTINF:-1 tvg-id="9" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8?
+#EXTINF:-1 tvg-id="10" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/云南卫视.png" group-title="卫视频道",云南卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000024694/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
@@ -1366,13 +1366,13 @@ http://neucn.asuscomm.cn:23234/rtp/239.3.1.161:8001
 #EXTINF:-1 tvg-id="10" tvg-name="南方卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/南方卫视.png" group-title="卫视频道",南方卫视
 http://123.112.240.21:5555/rtp/239.3.1.161:8001
 #EXTINF:-1 tvg-id="1" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
-#EXTINF:-1 tvg-id="4" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701_fhd.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-id="5" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
@@ -1380,29 +1380,29 @@ https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266005/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://mobilelive-ds.ysp.CCTV.cn/ysp/2022606701.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
-#EXTINF:-1 tvg-id="10" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
+#EXTINF:-1 tvg-id="9" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://59.173.183.242:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="10" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226439/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="3" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://183.234.238.18:8927/live1129.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://dms.yryyj.site:8188/udp/239.76.246.135:1234
-#EXTINF:-1 tvg-id="7" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?
-#EXTINF:-1 tvg-id="8" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://183.234.238.18:8927/live1129.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://122.224.232.218:8888/rtp/233.50.200.191:5140
+#EXTINF:-1 tvg-id="7" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://dms.yryyj.site:8188/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-id="9" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="10" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰中文.png" group-title="港·澳·台",凤凰中文
 https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
@@ -1410,17 +1410,17 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
+http://146.56.153.245:20121/bysid/257
 #EXTINF:-1 tvg-id="5" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://183.234.238.18:8926/live1128.m3u8
+http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://dms.yryyj.site:8188/udp/239.76.246.134:1234
+http://183.234.238.18:8926/live1128.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://dms.yryyj.site:8188/udp/239.76.253.134:9000
+http://dms.yryyj.site:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-id="8" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
+http://dms.yryyj.site:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-id="9" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://wouu.net:9977/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="10" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
@@ -1436,15 +1436,15 @@ http://58.144.154.93/qctv.fengshows.cn/0701phk72.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰香港.png" group-title="港·澳·台",凤凰香港
 http://r.jdshipin.com/yDoTN
 #EXTINF:-1 tvg-id="6" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰香港.png" group-title="港·澳·台",凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
+http://222.186.57.133:22222/php/fhx.php?id=fhhk&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-id="7" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰香港.png" group-title="港·澳·台",凤凰香港
-http://free.xiptv.x10.bz/kudou.php?id=123
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰香港.png" group-title="港·澳·台",凤凰香港
-http://60.164.128.167:8029/rtp/239.255.30.123:8231
+http://free.xiptv.x10.bz/kudou.php?id=123
 #EXTINF:-1 tvg-id="9" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰香港.png" group-title="港·澳·台",凤凰香港
-http://113.64.147.87:8081/hls/38/index.m3u8
+http://60.164.128.167:8029/rtp/239.255.30.123:8231
 #EXTINF:-1 tvg-id="10" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/凤凰香港.png" group-title="港·澳·台",凤凰香港
-http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
+http://113.64.147.87:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/翡翠台.png" group-title="港·澳·台",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/翡翠台.png" group-title="港·澳·台",翡翠台
@@ -1476,15 +1476,15 @@ http://61.238.177.254:30261/stream/channelid/1310877729
 #EXTINF:-1 tvg-id="5" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/明珠台.png" group-title="港·澳·台",明珠台
 http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/明珠台.png" group-title="港·澳·台",明珠台
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
-#EXTINF:-1 tvg-id="7" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/明珠台.png" group-title="港·澳·台",明珠台
 http://124.244.149.194:65531/bysid/2
-#EXTINF:-1 tvg-id="8" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/明珠台.png" group-title="港·澳·台",明珠台
+#EXTINF:-1 tvg-id="7" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/明珠台.png" group-title="港·澳·台",明珠台
 https://tvb.mytvsuper.us.kg/stream/tvb/null-2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="9" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/明珠台.png" group-title="港·澳·台",明珠台
+#EXTINF:-1 tvg-id="8" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/明珠台.png" group-title="港·澳·台",明珠台
 P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe
-#EXTINF:-1 tvg-id="10" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/明珠台.png" group-title="港·澳·台",明珠台
+#EXTINF:-1 tvg-id="9" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/明珠台.png" group-title="港·澳·台",明珠台
 http://124.244.149.194:65531/bysid/2.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/明珠台.png" group-title="港·澳·台",明珠台
+http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="无线星河台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/无线星河台.png" group-title="港·澳·台",无线星河台
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1 tvg-id="2" tvg-name="无线星河台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/无线星河台.png" group-title="港·澳·台",无线星河台
@@ -1514,9 +1514,9 @@ https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-id="4" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/无线新闻台.png" group-title="港·澳·台",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="5" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/无线新闻台.png" group-title="港·澳·台",无线新闻台
-http://154.9.232.236/mlTW22288.php?id=inews_twn
-#EXTINF:-1 tvg-id="6" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/无线新闻台.png" group-title="港·澳·台",无线新闻台
 http://124.244.149.194:65531/bysid/83
+#EXTINF:-1 tvg-id="6" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/无线新闻台.png" group-title="港·澳·台",无线新闻台
+http://154.9.232.236/mlTW22288.php?id=inews_twn
 #EXTINF:-1 tvg-id="7" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/无线新闻台.png" group-title="港·澳·台",无线新闻台
 http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/无线新闻台.png" group-title="港·澳·台",无线新闻台
@@ -1526,19 +1526,19 @@ http://cdn8.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-id="10" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/无线新闻台.png" group-title="港·澳·台",无线新闻台
 P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
 #EXTINF:-1 tvg-id="1" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://[2409:8087:1a01:df::4021]/TVOD/88888888/224/3221225555/main.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://[2001:250:5800:1005::155]/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8
+http://[2409:8087:1a01:df::4021]/TVOD/88888888/224/3221225555/main.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://dd.ddzb.fun/php/gzyx.php?id=30b1cc920430d3264e4b053d78bacabf
 #EXTINF:-1 tvg-id="9" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
@@ -1572,19 +1572,19 @@ http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&si
 #EXTINF:-1 tvg-id="3" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://dd.ddzb.fun/php/gzyx.php?id=548e8018101d7fa134d91615728a5a93
 #EXTINF:-1 tvg-id="4" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-https://stream1.freetv.fun/chcjia-ting-ying-yuan-4.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://iptvcyp.top:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="6" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
+#EXTINF:-1 tvg-id="5" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="7" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
+#EXTINF:-1 tvg-id="6" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://rihou.cc:55/ak1/aikan.php?id=chcjt
+#EXTINF:-1 tvg-id="7" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
+https://stream1.freetv.fun/chcjia-ting-ying-yuan-4.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://iptvcyp.top:9901/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-https://stream1.freetv.fun/chcjia-ting-ying-yuan-23.m3u8
+https://stream1.freetv.fun/chcjia-ting-ying-yuan-7.ctv
 #EXTINF:-1 tvg-id="10" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-https://stream1.freetv.fun/chcjia-ting-ying-yuan-11.ctv
+https://stream1.freetv.fun/chc-jia-ting-ying-yuan-1.ctv
 #EXTINF:-1 tvg-id="1" tvg-name="NewTV惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV惊悚悬疑.png" group-title="数字频道",NewTV惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="NewTV惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV惊悚悬疑.png" group-title="数字频道",NewTV惊悚悬疑
@@ -1592,9 +1592,9 @@ http://[2409:8087:1a0b:df::4002]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="3" tvg-name="NewTV惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV惊悚悬疑.png" group-title="数字频道",NewTV惊悚悬疑
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="NewTV惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV惊悚悬疑.png" group-title="数字频道",NewTV惊悚悬疑
-http://gslbservzqhsw.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="5" tvg-name="NewTV惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV惊悚悬疑.png" group-title="数字频道",NewTV惊悚悬疑
 http://222.186.57.133:22222/cmvideo.php/m3u8/1000000004000024282/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="NewTV惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV惊悚悬疑.png" group-title="数字频道",NewTV惊悚悬疑
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="6" tvg-name="NewTV惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV惊悚悬疑.png" group-title="数字频道",NewTV惊悚悬疑
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000024282/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="NewTV惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV惊悚悬疑.png" group-title="数字频道",NewTV惊悚悬疑
@@ -1612,11 +1612,11 @@ http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV动作电影.png" group-title="数字频道",NewTV动作电影
 http://111.12.101.22:6610/PLTV/77777777/224/3221225703/index.m3u8?%24
 #EXTINF:-1 tvg-id="4" tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV动作电影.png" group-title="数字频道",NewTV动作电影
-http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="5" tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV动作电影.png" group-title="数字频道",NewTV动作电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV动作电影.png" group-title="数字频道",NewTV动作电影
+#EXTINF:-1 tvg-id="5" tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV动作电影.png" group-title="数字频道",NewTV动作电影
 http://222.186.57.133:22222/cmvideo.php/m3u8/1000000004000018653/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV动作电影.png" group-title="数字频道",NewTV动作电影
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="7" tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV动作电影.png" group-title="数字频道",NewTV动作电影
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/NewTV动作电影.png" group-title="数字频道",NewTV动作电影
@@ -1718,11 +1718,11 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000025771/index.
 #EXTINF:-1 tvg-id="1" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
 http://[2409:8087:1a0b:df::4014]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
-http://[2409:8087:1a01:df::4001]/TVOD/88888888/224/3221225681/main.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
+#EXTINF:-1 tvg-id="3" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
 http://[2409:8087:74d9:21::6]/270000001128/9900000095/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
+http://[2409:8087:1a01:df::4001]/TVOD/88888888/224/3221225681/main.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
@@ -1730,11 +1730,11 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/8785669936177902664/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000019624/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
-http://gslbservzqhsw.itv.cmvideo.cn/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="9" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
+#EXTINF:-1 tvg-id="9" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
 https://epg.pw/stream/7cd2a163028ebcd6e8caffba4408642bb8a5009e13dd97bf5f36706cd75f395e.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黑莓电影.png" group-title="数字频道",黑莓电影
+https://epg.pw/stream/35d067b9bcb2480ccf5448a670af39922363cf6e42a24ec4a361aa2e0ebbb726.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/优漫卡通.png" group-title="数字频道",优漫卡通
 http://[2409:8087:1a0b:df::4005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/优漫卡通.png" group-title="数字频道",优漫卡通
@@ -1770,11 +1770,11 @@ http://123.113.183.117:9000/rtp/239.3.1.147:9268
 #EXTINF:-1 tvg-id="7" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
 http://e1.woc.iiiya.cn:8888/rtp/239.61.2.72:8426
 #EXTINF:-1 tvg-id="8" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
-http://1.203.76.10:7788/udp/225.1.8.170:9268
+http://61.145.208.119:9090/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="9" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
-http://58.41.27.144:18888/udp/239.45.1.48:5140
+http://1.203.76.10:7788/udp/225.1.8.170:9268
 #EXTINF:-1 tvg-id="10" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
-http://61.185.200.157:10000/rtp/239.112.205.135:5140
+http://58.41.27.144:18888/udp/239.45.1.48:5140
 #EXTINF:-1 tvg-id="1" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
 http://[2409:8087:1a0b:df::4008]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
@@ -1782,13 +1782,13 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="3" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/d66327025d5a2448b6097ce39c1de75d1f9693468932b522bd7dcc31533135f1.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/04c887f5ef1094da7dee8aa04f8c3d763c80977655b913034c1c93e3883a91bb.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
 http://[2409:8087:1a0b:df::4008]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
+https://stream1.freetv.fun/d66327025d5a2448b6097ce39c1de75d1f9693468932b522bd7dcc31533135f1.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
+https://stream1.freetv.fun/04c887f5ef1094da7dee8aa04f8c3d763c80977655b913034c1c93e3883a91bb.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 #EXTINF:-1 tvg-id="9" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
@@ -1866,9 +1866,9 @@ http://61.190.129.195:8688/rtp/238.1.78.246:7840
 #EXTINF:-1 tvg-id="8" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/厦门卫视.png" group-title="地方频道",厦门卫视
 http://fangke.blueswords.com:9901/tsfile/live/0112_1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/厦门卫视.png" group-title="地方频道",厦门卫视
-http://1b6467f415.iok.la:9931/tsfile/live/1093_1.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/厦门卫视.png" group-title="地方频道",厦门卫视
 http://111.123.105.133:8881/rtp/238.255.2.205:5999
+#EXTINF:-1 tvg-id="10" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/厦门卫视.png" group-title="地方频道",厦门卫视
+https://stream1.freetv.fun/8a2a9ccafaf754063ce9d89bdb563b7408b96117d9e868780622f631a35ea400.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/黄河卫视.png" group-title="地方频道",黄河卫视
 http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-id="1" tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/安多卫视.png" group-title="地方频道",安多卫视
@@ -1894,21 +1894,21 @@ http://stream.qhbtv.com/adws/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
 http://[2409:8087:1a0b:df::4005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
-http://61.157.139.15:9901/tsfile/live/2415_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="4" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
-http://111.202.12.159:8080/kYGHWzA/1000/live.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
-http://111.202.12.159:8080/3zvkK28/1000/live.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
-http://[2409:8087:1a0b:df::4005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266002/1.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
+#EXTINF:-1 tvg-id="3" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
 http://180.158.130.39:1024/udp/239.45.1.251:5140
+#EXTINF:-1 tvg-id="5" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
+http://61.157.139.15:9901/tsfile/live/2415_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="6" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
+http://111.202.12.159:8080/kYGHWzA/1000/live.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
+http://111.202.12.159:8080/3zvkK28/1000/live.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
+http://[2409:8087:1a0b:df::4005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/康巴卫视.png" group-title="地方频道",康巴卫视
 https://stream1.freetv.fun/7acb1025eb98d411fe5dc519902069dda51b621f55c7b1fce3acdd50f55d6ad5.ctv
 #EXTINF:-1 tvg-id="1" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/农林卫视.png" group-title="地方频道",农林卫视
@@ -1940,17 +1940,17 @@ http://117.27.190.42:9998/tsfile/live/23250_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-id="4" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/三沙卫视.png" group-title="地方频道",三沙卫视
 http://220.249.114.102:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="5" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/三沙卫视.png" group-title="地方频道",三沙卫视
-http://61.190.129.195:8688/rtp/238.1.78.27:6144
+http://1.69.2.100:9902/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="6" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/三沙卫视.png" group-title="地方频道",三沙卫视
 http://1.69.74.111:9902/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="7" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/三沙卫视.png" group-title="地方频道",三沙卫视
-http://113.195.4.227:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+http://61.190.129.195:8688/rtp/238.1.78.27:6144
 #EXTINF:-1 tvg-id="8" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/三沙卫视.png" group-title="地方频道",三沙卫视
 http://www.zzlag.top:9087/tsfile/live/1049_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="9" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/三沙卫视.png" group-title="地方频道",三沙卫视
-https://stream1.freetv.fun/2cd4144297abc1ff362c335b2277ea95807b098d03e76dc36a28f27c9bf89c47.ctv
+http://117.27.190.42:9998/tsfile/live/23250_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="10" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/三沙卫视.png" group-title="地方频道",三沙卫视
-https://stream1.freetv.fun/b54ef2d025e3b6719aba4722e7bad797297d5e0f87df76bc9935a91ad02daee8.ctv
+https://stream1.freetv.fun/739e01ea36ce64b23d330982e442caa57c06c2a44cafaff6c1b6d13b31e01d75.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
 http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
@@ -1958,18 +1958,18 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
 http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
-http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
+http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
-#EXTINF:-1 tvg-id="8" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266008/1.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
+#EXTINF:-1 tvg-id="8" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?
+#EXTINF:-1 tvg-id="9" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 #EXTINF:-1 tvg-id="10" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
-http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
-#EXTINF:-1 tvg-id="1" tvg-name="2024-10-11" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/default.png" group-title="更新信息",2024-10-11
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="2024-10-12" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/default.png" group-title="更新信息",2024-10-12
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
