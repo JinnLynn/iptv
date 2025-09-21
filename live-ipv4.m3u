@@ -1499,5 +1499,5 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun
 http://120.76.248.139/live/bfgd/4200000117.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/延边卫视.png" group-title="地方频道",延边卫视
 http://36.105.100.208:35455/itv/1000000005000266008.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="2025-09-20" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/default.png" group-title="更新信息",2025-09-20
+#EXTINF:-1 tvg-id="1" tvg-name="2025-09-21" tvg-logo="https://raw.githubusercontent.com/JinnLynn/iptv/dist/logo/default.png" group-title="更新信息",2025-09-21
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
