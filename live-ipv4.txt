@@ -284,6 +284,7 @@ CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 江苏卫视,http://8.138.7.223/tv/jstv.php?id=jsws
 东南卫视,rtp://239.3.1.156:8148
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+东南卫视,http://182.126.119.133:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://101.35.240.114:88/live.php?id=东南卫视
 东南卫视,http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8
 东南卫视,http://124.128.73.58:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -291,7 +292,6 @@ CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 东南卫视,http://222.241.154.37:9901/tsfile/live/23037_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://114.252.229.26:9876/rtp/239.3.1.156:8148
 东南卫视,http://120.234.5.29:6000/udp/239.20.0.58:3168
-东南卫视,http://1b6467f415.iok.la:9931/tsfile/live/1075_1.m3u8
 安徽卫视,rtp://239.3.1.211:8064
 安徽卫视,http://101.35.240.114:88/live.php?id=安徽卫视
 安徽卫视,http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8
@@ -356,12 +356,12 @@ CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖北卫视,http://1.195.111.251:11190/tsfile/live/0132_1.m3u8
+湖北卫视,http://182.126.119.133:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://101.35.240.114:88/live.php?id=湖北卫视
 湖北卫视,http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8
 湖北卫视,http://39.134.65.162/PLTV/88888888/224/3221225569/1.m3u8
 湖北卫视,http://ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8
 湖北卫视,http://114.252.229.26:9876/rtp/239.3.1.138:8044
-湖北卫视,http://14.29.76.30:9901/tsfile/live/0132_1.m3u8?key=txiptv
 深圳卫视,rtp://239.3.1.202:2000
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 深圳卫视,http://101.35.240.114:88/live.php?id=深圳卫视
@@ -692,4 +692,4 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 
 
 更新信息,#genre#
-2025-11-23,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+2025-11-24,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
