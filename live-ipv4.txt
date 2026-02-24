@@ -122,15 +122,16 @@ CCTV11,http://39.135.135.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212255
 CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV12,rtp://239.3.1.64:8124
 CCTV12,http://101.35.240.114:88/live.php?id=CCTV12
-CCTV12,http://101.35.240.114:88/live.php?id=CCTV13
 CCTV12,http://112.46.105.20:8009/hls/507/index.m3u8
 CCTV12,http://58.19.43.46:9901/tsfile/live/1031_1.m3u8
 CCTV12,http://120.238.94.10:9901/tsfile/live/1030_1.m3u8
 CCTV12,http://58.57.40.22:9901/tsfile/live/1012_1.m3u8
 CCTV12,http://113.101.119.27:808/hls/124/index.m3u8
 CCTV12,http://106.52.196.79/TV/mui.php?id=cctv12
+CCTV12,http://39.135.135.11/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,rtp://239.3.1.124:8128
+CCTV13,http://101.35.240.114:88/live.php?id=CCTV13
 CCTV13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV13,http://60.29.124.66:6080/hls/23/index.m3u8
 CCTV13,http://8.138.7.223/tv/gzjs.m3u8
@@ -138,7 +139,6 @@ CCTV13,http://58.210.168.86:10800/newlive/live/hls/12/live.m3u8
 CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV13,http://106.52.196.79/TV/mui.php?id=cctv13
 CCTV13,http://39.135.135.59/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV13,http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV14,rtp://239.3.1.65:8132
 CCTV14,http://101.35.240.114:88/live.php?id=CCTV14
@@ -188,6 +188,7 @@ CCTV8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CGTN,http://fm1077.serv00.net/Smart.php?id=CGTN
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+CGTN,http://183.223.157.33:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV1,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225652/.m3u8
 CETV1,http://39.134.67.148/PLTV/88888888/224/3221225563/1.m3u8
 CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
@@ -692,4 +693,4 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 
 
 更新信息,#genre#
-2026-02-23,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+2026-02-24,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
