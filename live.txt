@@ -34,11 +34,11 @@ CCTV4,rtp://239.3.1.105:8092
 CCTV4,rtp://239.3.1.213:4220
 CCTV4,rtp://239.3.1.214:4220
 CCTV4,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV4,http://125.125.233.70:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://101.35.240.114:88/live.php?id=CCTV4
 CCTV4,http://112.46.105.20:8009/hls/4/index.m3u8
 CCTV4,http://120.76.248.139/live/bfgd/4200000063.m3u8
 CCTV4,http://60.29.124.66:6080/hls/15/index.m3u8
-CCTV4,http://58.19.43.46:9901/tsfile/live/1023_1.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV5,rtp://239.3.1.173:8001
@@ -52,13 +52,13 @@ CCTV5,http://58.19.43.46:9901/tsfile/live/1024_1.m3u8
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5+,rtp://239.3.1.130:8004
 CCTV5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV5+,http://125.125.233.70:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://fm1077.serv00.net/Smart.php?id=cctv5plus
 CCTV5+,http://101.35.240.114:88/live.php?id=CCTV5p
 CCTV5+,http://59.188.94.126:35455/bptv/10000100000000050000000003248330.m3u8
 CCTV5+,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
 CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
-CCTV5+,http://58.221.214.82:9901/tsfile/live/0016_1.m3u8
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV6,rtp://239.3.1.174:8001
@@ -295,13 +295,13 @@ CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 安徽卫视,rtp://239.3.1.211:8064
 安徽卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+安徽卫视,http://125.125.233.70:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://101.35.240.114:88/live.php?id=安徽卫视
 安徽卫视,http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8
 安徽卫视,http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
 安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2802330256_375747539/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1668597596&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 安徽卫视,http://222.241.154.37:9901/tsfile/live/23031_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://120.234.5.29:6000/udp/239.20.0.193:2184
-安徽卫视,http://1b6467f415.iok.la:9931/tsfile/live/1062_1.m3u8
 山东卫视,rtp://239.3.1.144:3005
 山东卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226456/index.m3u8
 山东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
@@ -455,13 +455,13 @@ CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 河南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 河南卫视,rtp://239.3.1.50:8184
 河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+河南卫视,http://125.125.233.70:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://101.35.240.114:88/live.php?id=河南卫视
 河南卫视,http://106.52.196.79/TV/mui.php?id=hnws
 河南卫视,http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
 河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1669700385&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 河南卫视,http://live.nctv.top/886/sxg.php?id=hnws35_4000
 河南卫视,http://222.241.154.37:9901/tsfile/live/23044_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000044BESTVSMGSMG/index.m3u8?m3u8_level=2
 甘肃卫视,rtp://239.3.1.201:8180
 甘肃卫视,http://101.35.240.114:88/live.php?id=甘肃卫视
 甘肃卫视,http://ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
@@ -710,4 +710,4 @@ NewTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 
 
 更新信息,#genre#
-2026-03-09,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+2026-03-10,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
