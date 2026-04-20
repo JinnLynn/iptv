@@ -284,6 +284,7 @@ CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 江苏卫视,http://8.138.7.223/tv/jstv.php?id=jsws
 东南卫视,rtp://239.3.1.156:8148
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+东南卫视,http://125.42.148.129:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://101.35.240.114:88/live.php?id=东南卫视
 东南卫视,http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8
 东南卫视,http://124.128.73.58:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -291,7 +292,6 @@ CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 东南卫视,http://222.241.154.37:9901/tsfile/live/23037_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://114.252.229.26:9876/rtp/239.3.1.156:8148
 东南卫视,http://120.234.5.29:6000/udp/239.20.0.58:3168
-东南卫视,http://1b6467f415.iok.la:9931/tsfile/live/1075_1.m3u8
 安徽卫视,rtp://239.3.1.211:8064
 安徽卫视,http://101.35.240.114:88/live.php?id=安徽卫视
 安徽卫视,http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8
@@ -374,7 +374,6 @@ CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 深圳卫视,http://14.29.76.30:9901/tsfile/live/0126_1.m3u8?key=txiptv
 重庆卫视,rtp://239.3.1.122:8160
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
-重庆卫视,http://125.43.244.73:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://101.35.240.114:88/live.php?id=重庆卫视
 重庆卫视,http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
 重庆卫视,http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
@@ -382,6 +381,7 @@ CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 重庆卫视,http://dms.yryyj.site:8188/udp/239.76.246.92:1234
 重庆卫视,http://222.241.154.37:9901/tsfile/live/23042_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://14.29.76.30:9901/tsfile/live/0142_1.m3u8?key=txiptv
+重庆卫视,http://www.zzlag.top:9087/tsfile/live/0142_1.m3u8?key=txiptv
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 广西卫视,http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8
 广西卫视,http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
@@ -629,6 +629,7 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 嘉佳卡通,https://stream1.freetv.fun/976035efe28f5ba75f7470898ff81d0849d67dbaac90f5f2cf234574a8c83190.m3u8
 嘉佳卡通,https://stream1.freetv.fun/e086de12f5964899bed319b3e0f291d80161988964c18a1d400edd291c88e203.m3u8
 嘉佳卡通,https://stream1.freetv.fun/ce2ac3337ab79048f65c1994ff0049a0783e6db4a26d183b7b5683bc03d38be0.m3u8
+金鹰卡通,http://125.42.148.129:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://www.zzlag.top:9087/tsfile/live/1052_1.m3u8?key=txiptv
 金鹰卡通,http://171.108.239.98:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://223.159.8.12:8099/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -638,7 +639,6 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 金鹰卡通,http://171.108.239.99:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,https://stream1.freetv.fun/d66327025d5a2448b6097ce39c1de75d1f9693468932b522bd7dcc31533135f1.m3u8
 金鹰卡通,https://stream1.freetv.fun/04c887f5ef1094da7dee8aa04f8c3d763c80977655b913034c1c93e3883a91bb.m3u8
-金鹰卡通,https://stream1.freetv.fun/3442dca643bbe89bae76ea70d2aa42b07671b0e1daef6ef390f9f4edd7807a49.m3u8
 金鹰纪实,rtp://239.3.1.58:8156
 
 
@@ -692,4 +692,4 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 
 
 更新信息,#genre#
-2026-04-19,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+2026-04-20,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
