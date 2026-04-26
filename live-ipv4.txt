@@ -71,7 +71,6 @@ CCTV6,http://60.29.124.66:6080/hls/17/index.m3u8
 CCTV6,http://106.52.196.79/TV/mui.php?id=cctv6
 CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV7,rtp://239.3.1.61:8104
-CCTV7,http://125.43.249.77:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://101.35.240.114:88/live.php?id=CCTV7
 CCTV7,http://220.164.192.48:50085/tsfile/live/0008_1.m3u8
 CCTV7,http://58.57.40.22:9901/tsfile/live/1007_1.m3u8
@@ -79,6 +78,7 @@ CCTV7,http://112.46.105.20:8009/hls/504/index.m3u8
 CCTV7,http://120.76.248.139/live/bfgd/4200000127.m3u8
 CCTV7,https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
 CCTV7,http://106.52.196.79/TV/mui.php?id=cctv7
+CCTV7,http://39.135.135.87/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8,rtp://239.3.1.175:8001
 CCTV8,http://101.35.240.114:88/live.php?id=CCTV8
@@ -274,7 +274,6 @@ CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 北京卫视,http://223.159.8.12:8099/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,rtp://239.3.1.113:3003
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-江苏卫视,http://125.43.249.77:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://101.35.240.114:88/live.php?id=江苏卫视
 江苏卫视,http://106.52.196.79/TV/mui.php?id=jsws
 江苏卫视,http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8
@@ -282,6 +281,7 @@ CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 江苏卫视,http://39.134.65.181/PLTV/88888888/224/3221225503/1.m3u8
 江苏卫视,http://39.134.65.183/PLTV/88888888/224/3221225503/1.m3u8
 江苏卫视,http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8
+江苏卫视,http://8.138.7.223/tv/jstv.php?id=jsws
 东南卫视,rtp://239.3.1.156:8148
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视,http://101.35.240.114:88/live.php?id=东南卫视
@@ -304,7 +304,6 @@ CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 安徽卫视,http://webmail.axxe.top:4022/rtp/239.3.1.211:8064
 山东卫视,rtp://239.3.1.144:3005
 山东卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226456/index.m3u8
-山东卫视,http://125.43.249.77:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://101.35.240.114:88/live.php?id=山东卫视
 山东卫视,http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8
 山东卫视,http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8
@@ -312,6 +311,7 @@ CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 山东卫视,http://114.252.229.26:9876/rtp/239.3.1.209:8052
 山东卫视,http://222.241.154.37:9901/tsfile/live/23040_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://14.29.76.30:9901/tsfile/live/0131_1.m3u8?key=txiptv
+山东卫视,http://124.128.73.58:9901/tsfile/live/0107_1.m3u8?key=txiptv
 天津卫视,rtp://239.3.1.141:1234
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
@@ -692,4 +692,4 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 
 
 更新信息,#genre#
-2026-04-25,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+2026-04-26,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
