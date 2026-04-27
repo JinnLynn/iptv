@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260427052743 +0000" generator-info-name="JinnLynn/iptv" generator-info-url="https://github.com/JinnLynn/iptv" source-info-name="http://epg.51zmt.top:8000" source-info-url="老张的EPG">
+<tv date="20260427114756 +0000" generator-info-name="JinnLynn/iptv" generator-info-url="https://github.com/JinnLynn/iptv" source-info-name="http://epg.51zmt.top:8000" source-info-url="老张的EPG">
   <channel id="1">
     <display-name lang="zh">CCTV1</display-name>
   </channel>
