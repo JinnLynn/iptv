@@ -640,7 +640,6 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 金鹰卡通,https://stream1.freetv.fun/04c887f5ef1094da7dee8aa04f8c3d763c80977655b913034c1c93e3883a91bb.m3u8
 金鹰卡通,https://stream1.freetv.fun/3442dca643bbe89bae76ea70d2aa42b07671b0e1daef6ef390f9f4edd7807a49.m3u8
 金鹰纪实,rtp://239.3.1.58:8156
-卡酷动画,http://221.13.235.54:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 地方频道,#genre#
@@ -693,4 +692,4 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 
 
 更新信息,#genre#
-2026-05-29,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+2026-05-30,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
