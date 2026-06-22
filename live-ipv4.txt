@@ -615,7 +615,6 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 优漫卡通,https://stream1.freetv.fun/ac5eafae4e70b19313da6c3dab1c94cf397035762561a767f703c1706b173488.m3u8
 优漫卡通,https://stream1.freetv.fun/4f3e660db4b75f218546c35fbdf55813ca1cd497ebcaa5fa4d873cff81c402f5.m3u8
 优漫卡通,https://stream1.freetv.fun/9a50e666912cb82bd584eb50bb030b7f654275ed05a586ef3c63ac39789df94b.m3u8
-嘉佳卡通,http://125.42.151.149:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://113.109.248.232:9999/rtp/239.77.0.179:5146
 嘉佳卡通,http://www.zzlag.top:9087/tsfile/live/1035_1.m3u8?key=txiptv
 嘉佳卡通,http://119.122.214.182:4022/rtp/239.77.0.179:5146
@@ -625,6 +624,7 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 嘉佳卡通,https://stream1.freetv.fun/816bcbccb0df0c3709fa197d510f0705e0ff00f52a7fa568f0c60a894e3668d9.m3u8
 嘉佳卡通,https://stream1.freetv.fun/976035efe28f5ba75f7470898ff81d0849d67dbaac90f5f2cf234574a8c83190.m3u8
 嘉佳卡通,https://stream1.freetv.fun/e086de12f5964899bed319b3e0f291d80161988964c18a1d400edd291c88e203.m3u8
+嘉佳卡通,https://stream1.freetv.fun/ce2ac3337ab79048f65c1994ff0049a0783e6db4a26d183b7b5683bc03d38be0.m3u8
 金鹰卡通,http://www.zzlag.top:9087/tsfile/live/1052_1.m3u8?key=txiptv
 金鹰卡通,http://171.108.239.98:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://223.159.8.12:8099/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -688,4 +688,4 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 
 
 更新信息,#genre#
-2026-06-21,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+2026-06-22,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
