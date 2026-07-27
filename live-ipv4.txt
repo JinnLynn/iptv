@@ -91,7 +91,6 @@ CCTV8,http://106.52.196.79/TV/mui.php?id=cctv8
 CCTV8,http://39.135.135.89/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV9,rtp://239.3.1.62:8112
-CCTV9,http://221.193.168.22:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://101.35.240.114:88/live.php?id=CCTV9
 CCTV9,http://59.188.94.126:35455/bptv/10000100000000050000000003870752.m3u8
 CCTV9,http://59.188.94.126:35455/bptv/10000100000000050000000005002664.m3u8
@@ -99,6 +98,7 @@ CCTV9,http://58.57.40.22:9901/tsfile/live/1009_1.m3u8
 CCTV9,http://112.46.105.20:8009/hls/509/index.m3u8
 CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
 CCTV9,http://106.52.196.79/TV/mui.php?id=cctv9
+CCTV9,http://39.135.135.38/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV10,rtp://239.3.1.63:8116
 CCTV10,http://101.35.240.114:88/live.php?id=CCTV10
@@ -688,4 +688,4 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 
 
 更新信息,#genre#
-2026-07-26,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+2026-07-27,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
