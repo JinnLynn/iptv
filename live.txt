@@ -636,7 +636,6 @@ NewTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 优漫卡通,https://stream1.freetv.fun/ac5eafae4e70b19313da6c3dab1c94cf397035762561a767f703c1706b173488.m3u8
 优漫卡通,https://stream1.freetv.fun/4f3e660db4b75f218546c35fbdf55813ca1cd497ebcaa5fa4d873cff81c402f5.m3u8
 优漫卡通,https://stream1.freetv.fun/9a50e666912cb82bd584eb50bb030b7f654275ed05a586ef3c63ac39789df94b.m3u8
-优漫卡通,http://222.136.68.235:9901/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://113.109.248.232:9999/rtp/239.77.0.179:5146
 嘉佳卡通,http://www.zzlag.top:9087/tsfile/live/1035_1.m3u8?key=txiptv
 嘉佳卡通,http://119.122.214.182:4022/rtp/239.77.0.179:5146
@@ -711,4 +710,4 @@ NewTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 
 
 更新信息,#genre#
-2026-08-29,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+2026-08-30,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
